@@ -898,7 +898,7 @@
     <value>81, 208</value>
   </data>
   <data name="SpeParent2TextBox.Size" type="System.Drawing.Size, System.Drawing">
-    <value>43, 26</value>
+    <value>42, 26</value>
   </data>
   <data name="SpeParent2TextBox.TabIndex" type="System.Int32, mscorlib">
     <value>5</value>
@@ -931,7 +931,7 @@
     <value>81, 167</value>
   </data>
   <data name="SpDParent2TextBox.Size" type="System.Drawing.Size, System.Drawing">
-    <value>43, 26</value>
+    <value>42, 26</value>
   </data>
   <data name="SpDParent2TextBox.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
@@ -964,7 +964,7 @@
     <value>81, 127</value>
   </data>
   <data name="SpAParent2TextBox.Size" type="System.Drawing.Size, System.Drawing">
-    <value>43, 26</value>
+    <value>42, 26</value>
   </data>
   <data name="SpAParent2TextBox.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
@@ -997,7 +997,7 @@
     <value>81, 87</value>
   </data>
   <data name="DefParent2TextBox.Size" type="System.Drawing.Size, System.Drawing">
-    <value>43, 26</value>
+    <value>42, 26</value>
   </data>
   <data name="DefParent2TextBox.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -1030,7 +1030,7 @@
     <value>81, 47</value>
   </data>
   <data name="AtkParent2TextBox.Size" type="System.Drawing.Size, System.Drawing">
-    <value>43, 26</value>
+    <value>42, 26</value>
   </data>
   <data name="AtkParent2TextBox.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -1282,7 +1282,7 @@
     <value>NoControl</value>
   </data>
   <data name="label21.Location" type="System.Drawing.Point, System.Drawing">
-    <value>130, 8</value>
+    <value>129, 8</value>
   </data>
   <data name="label21.Size" type="System.Drawing.Size, System.Drawing">
     <value>39, 24</value>
@@ -1318,7 +1318,7 @@
     <value>NoControl</value>
   </data>
   <data name="label22.Location" type="System.Drawing.Point, System.Drawing">
-    <value>130, 48</value>
+    <value>129, 48</value>
   </data>
   <data name="label22.Size" type="System.Drawing.Size, System.Drawing">
     <value>39, 24</value>
@@ -1354,7 +1354,7 @@
     <value>NoControl</value>
   </data>
   <data name="label23.Location" type="System.Drawing.Point, System.Drawing">
-    <value>130, 88</value>
+    <value>129, 88</value>
   </data>
   <data name="label23.Size" type="System.Drawing.Size, System.Drawing">
     <value>39, 24</value>
@@ -1390,7 +1390,7 @@
     <value>NoControl</value>
   </data>
   <data name="label24.Location" type="System.Drawing.Point, System.Drawing">
-    <value>130, 128</value>
+    <value>129, 128</value>
   </data>
   <data name="label24.Size" type="System.Drawing.Size, System.Drawing">
     <value>39, 24</value>
@@ -1426,7 +1426,7 @@
     <value>NoControl</value>
   </data>
   <data name="label25.Location" type="System.Drawing.Point, System.Drawing">
-    <value>130, 168</value>
+    <value>129, 168</value>
   </data>
   <data name="label25.Size" type="System.Drawing.Size, System.Drawing">
     <value>39, 24</value>
@@ -1462,7 +1462,7 @@
     <value>NoControl</value>
   </data>
   <data name="label26.Location" type="System.Drawing.Point, System.Drawing">
-    <value>130, 209</value>
+    <value>129, 209</value>
   </data>
   <data name="label26.Size" type="System.Drawing.Size, System.Drawing">
     <value>39, 24</value>
@@ -1495,7 +1495,7 @@
     <value>81, 7</value>
   </data>
   <data name="HPParent2TextBox.Size" type="System.Drawing.Size, System.Drawing">
-    <value>43, 26</value>
+    <value>42, 26</value>
   </data>
   <data name="HPParent2TextBox.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -1543,7 +1543,7 @@
     <value>1</value>
   </data>
   <data name="tableLayoutPanel4.LayoutSettings" type="System.Windows.Forms.TableLayoutSettings, System.Windows.Forms">
-    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="SpeParent2TextBox" Row="5" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="SpDParent2TextBox" Row="4" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="SpAParent2TextBox" Row="3" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="DefParent2TextBox" Row="2" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="AtkParent2TextBox" Row="1" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="label15" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label16" Row="1" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label17" Row="2" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label18" Row="3" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label19" Row="4" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label20" Row="5" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label21" Row="0" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="label22" Row="1" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="label23" Row="2" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="label24" Row="3" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="label25" Row="4" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="label26" Row="5" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="HPParent2TextBox" Row="0" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,61,54,Percent,38,46,Absolute,85" /&gt;&lt;Rows Styles="Percent,16,66667,Percent,16,66667,Percent,16,66667,Percent,16,66667,Percent,16,66667,Percent,16,66667" /&gt;&lt;/TableLayoutSettings&gt;</value>
+    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="SpeParent2TextBox" Row="5" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="SpDParent2TextBox" Row="4" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="SpAParent2TextBox" Row="3" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="DefParent2TextBox" Row="2" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="AtkParent2TextBox" Row="1" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="label15" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label16" Row="1" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label17" Row="2" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label18" Row="3" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label19" Row="4" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label20" Row="5" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label21" Row="0" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="label22" Row="1" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="label23" Row="2" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="label24" Row="3" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="label25" Row="4" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="label26" Row="5" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="HPParent2TextBox" Row="0" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,61,54,Percent,38,46,Absolute,86" /&gt;&lt;Rows Styles="Percent,16,66667,Percent,16,66667,Percent,16,66667,Percent,16,66667,Percent,16,66667,Percent,16,66667" /&gt;&lt;/TableLayoutSettings&gt;</value>
   </data>
   <data name="tableLayoutPanel3.Location" type="System.Drawing.Point, System.Drawing">
     <value>306, 49</value>
@@ -1630,7 +1630,7 @@
     <value>58, 203</value>
   </data>
   <data name="greaterSpeButton.Size" type="System.Drawing.Size, System.Drawing">
-    <value>40, 36</value>
+    <value>39, 36</value>
   </data>
   <data name="greaterSpeButton.TabIndex" type="System.Int32, mscorlib">
     <value>23</value>
@@ -1663,7 +1663,7 @@
     <value>58, 163</value>
   </data>
   <data name="greaterSpDButton.Size" type="System.Drawing.Size, System.Drawing">
-    <value>40, 34</value>
+    <value>39, 34</value>
   </data>
   <data name="greaterSpDButton.TabIndex" type="System.Int32, mscorlib">
     <value>22</value>
@@ -1696,7 +1696,7 @@
     <value>58, 123</value>
   </data>
   <data name="greaterSpAButton.Size" type="System.Drawing.Size, System.Drawing">
-    <value>40, 34</value>
+    <value>39, 34</value>
   </data>
   <data name="greaterSpAButton.TabIndex" type="System.Int32, mscorlib">
     <value>21</value>
@@ -1729,7 +1729,7 @@
     <value>58, 83</value>
   </data>
   <data name="greaterDefButton.Size" type="System.Drawing.Size, System.Drawing">
-    <value>40, 34</value>
+    <value>39, 34</value>
   </data>
   <data name="greaterDefButton.TabIndex" type="System.Int32, mscorlib">
     <value>20</value>
@@ -1762,7 +1762,7 @@
     <value>58, 43</value>
   </data>
   <data name="greaterAtkButton.Size" type="System.Drawing.Size, System.Drawing">
-    <value>40, 34</value>
+    <value>39, 34</value>
   </data>
   <data name="greaterAtkButton.TabIndex" type="System.Int32, mscorlib">
     <value>19</value>
@@ -2011,7 +2011,7 @@
     <value>NoControl</value>
   </data>
   <data name="label34.Location" type="System.Drawing.Point, System.Drawing">
-    <value>150, 8</value>
+    <value>149, 8</value>
   </data>
   <data name="label34.Size" type="System.Drawing.Size, System.Drawing">
     <value>39, 24</value>
@@ -2047,7 +2047,7 @@
     <value>NoControl</value>
   </data>
   <data name="label35.Location" type="System.Drawing.Point, System.Drawing">
-    <value>150, 48</value>
+    <value>149, 48</value>
   </data>
   <data name="label35.Size" type="System.Drawing.Size, System.Drawing">
     <value>39, 24</value>
@@ -2083,7 +2083,7 @@
     <value>NoControl</value>
   </data>
   <data name="label36.Location" type="System.Drawing.Point, System.Drawing">
-    <value>150, 88</value>
+    <value>149, 88</value>
   </data>
   <data name="label36.Size" type="System.Drawing.Size, System.Drawing">
     <value>39, 24</value>
@@ -2119,7 +2119,7 @@
     <value>NoControl</value>
   </data>
   <data name="label37.Location" type="System.Drawing.Point, System.Drawing">
-    <value>150, 128</value>
+    <value>149, 128</value>
   </data>
   <data name="label37.Size" type="System.Drawing.Size, System.Drawing">
     <value>39, 24</value>
@@ -2155,7 +2155,7 @@
     <value>NoControl</value>
   </data>
   <data name="label38.Location" type="System.Drawing.Point, System.Drawing">
-    <value>150, 168</value>
+    <value>149, 168</value>
   </data>
   <data name="label38.Size" type="System.Drawing.Size, System.Drawing">
     <value>39, 24</value>
@@ -2191,7 +2191,7 @@
     <value>NoControl</value>
   </data>
   <data name="label39.Location" type="System.Drawing.Point, System.Drawing">
-    <value>150, 209</value>
+    <value>149, 209</value>
   </data>
   <data name="label39.Size" type="System.Drawing.Size, System.Drawing">
     <value>39, 24</value>
@@ -2221,7 +2221,7 @@
     <value>Microsoft Sans Serif, 12pt, style=Bold</value>
   </data>
   <data name="HPDesiredTextBox.Location" type="System.Drawing.Point, System.Drawing">
-    <value>104, 7</value>
+    <value>103, 7</value>
   </data>
   <data name="HPDesiredTextBox.Size" type="System.Drawing.Size, System.Drawing">
     <value>40, 26</value>
@@ -2254,7 +2254,7 @@
     <value>Microsoft Sans Serif, 12pt, style=Bold</value>
   </data>
   <data name="AtkDesiredTextBox.Location" type="System.Drawing.Point, System.Drawing">
-    <value>104, 47</value>
+    <value>103, 47</value>
   </data>
   <data name="AtkDesiredTextBox.Size" type="System.Drawing.Size, System.Drawing">
     <value>40, 26</value>
@@ -2287,7 +2287,7 @@
     <value>Microsoft Sans Serif, 12pt, style=Bold</value>
   </data>
   <data name="DefDesiredTextBox.Location" type="System.Drawing.Point, System.Drawing">
-    <value>104, 87</value>
+    <value>103, 87</value>
   </data>
   <data name="DefDesiredTextBox.Size" type="System.Drawing.Size, System.Drawing">
     <value>40, 26</value>
@@ -2320,7 +2320,7 @@
     <value>Microsoft Sans Serif, 12pt, style=Bold</value>
   </data>
   <data name="SpADesiredTextBox.Location" type="System.Drawing.Point, System.Drawing">
-    <value>104, 127</value>
+    <value>103, 127</value>
   </data>
   <data name="SpADesiredTextBox.Size" type="System.Drawing.Size, System.Drawing">
     <value>40, 26</value>
@@ -2353,7 +2353,7 @@
     <value>Microsoft Sans Serif, 12pt, style=Bold</value>
   </data>
   <data name="SpDDesiredTextBox.Location" type="System.Drawing.Point, System.Drawing">
-    <value>104, 167</value>
+    <value>103, 167</value>
   </data>
   <data name="SpDDesiredTextBox.Size" type="System.Drawing.Size, System.Drawing">
     <value>40, 26</value>
@@ -2386,7 +2386,7 @@
     <value>Microsoft Sans Serif, 12pt, style=Bold</value>
   </data>
   <data name="SpeDesiredTextBox.Location" type="System.Drawing.Point, System.Drawing">
-    <value>104, 208</value>
+    <value>103, 208</value>
   </data>
   <data name="SpeDesiredTextBox.Size" type="System.Drawing.Size, System.Drawing">
     <value>40, 26</value>
@@ -2422,7 +2422,7 @@
     <value>58, 3</value>
   </data>
   <data name="greaterHPButton.Size" type="System.Drawing.Size, System.Drawing">
-    <value>40, 34</value>
+    <value>39, 34</value>
   </data>
   <data name="greaterHPButton.TabIndex" type="System.Int32, mscorlib">
     <value>18</value>
@@ -2467,7 +2467,7 @@
     <value>1</value>
   </data>
   <data name="tableLayoutPanel6.LayoutSettings" type="System.Windows.Forms.TableLayoutSettings, System.Windows.Forms">
-    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="greaterSpeButton" Row="5" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="greaterSpDButton" Row="4" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="greaterSpAButton" Row="3" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="greaterDefButton" Row="2" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="greaterAtkButton" Row="1" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="label28" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label29" Row="1" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label30" Row="2" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label31" Row="3" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label32" Row="4" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label33" Row="5" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label34" Row="0" RowSpan="1" Column="3" ColumnSpan="1" /&gt;&lt;Control Name="label35" Row="1" RowSpan="1" Column="3" ColumnSpan="1" /&gt;&lt;Control Name="label36" Row="2" RowSpan="1" Column="3" ColumnSpan="1" /&gt;&lt;Control Name="label37" Row="3" RowSpan="1" Column="3" ColumnSpan="1" /&gt;&lt;Control Name="label38" Row="4" RowSpan="1" Column="3" ColumnSpan="1" /&gt;&lt;Control Name="label39" Row="5" RowSpan="1" Column="3" ColumnSpan="1" /&gt;&lt;Control Name="HPDesiredTextBox" Row="0" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="AtkDesiredTextBox" Row="1" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="DefDesiredTextBox" Row="2" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="SpADesiredTextBox" Row="3" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="SpDDesiredTextBox" Row="4" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="SpeDesiredTextBox" Row="5" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="greaterHPButton" Row="0" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,54,54546,Percent,45,45454,Absolute,46,Absolute,65" /&gt;&lt;Rows Styles="Percent,16,66666,Percent,16,66666,Percent,16,66666,Percent,16,66666,Percent,16,66666,Percent,16,66666" /&gt;&lt;/TableLayoutSettings&gt;</value>
+    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="greaterSpeButton" Row="5" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="greaterSpDButton" Row="4" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="greaterSpAButton" Row="3" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="greaterDefButton" Row="2" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="greaterAtkButton" Row="1" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="label28" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label29" Row="1" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label30" Row="2" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label31" Row="3" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label32" Row="4" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label33" Row="5" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label34" Row="0" RowSpan="1" Column="3" ColumnSpan="1" /&gt;&lt;Control Name="label35" Row="1" RowSpan="1" Column="3" ColumnSpan="1" /&gt;&lt;Control Name="label36" Row="2" RowSpan="1" Column="3" ColumnSpan="1" /&gt;&lt;Control Name="label37" Row="3" RowSpan="1" Column="3" ColumnSpan="1" /&gt;&lt;Control Name="label38" Row="4" RowSpan="1" Column="3" ColumnSpan="1" /&gt;&lt;Control Name="label39" Row="5" RowSpan="1" Column="3" ColumnSpan="1" /&gt;&lt;Control Name="HPDesiredTextBox" Row="0" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="AtkDesiredTextBox" Row="1" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="DefDesiredTextBox" Row="2" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="SpADesiredTextBox" Row="3" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="SpDDesiredTextBox" Row="4" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="SpeDesiredTextBox" Row="5" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="greaterHPButton" Row="0" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,54,54546,Percent,45,45454,Absolute,46,Absolute,66" /&gt;&lt;Rows Styles="Percent,16,66666,Percent,16,66666,Percent,16,66666,Percent,16,66666,Percent,16,66666,Percent,16,66666" /&gt;&lt;/TableLayoutSettings&gt;</value>
   </data>
   <data name="tableLayoutPanel5.Location" type="System.Drawing.Point, System.Drawing">
     <value>44, 369</value>

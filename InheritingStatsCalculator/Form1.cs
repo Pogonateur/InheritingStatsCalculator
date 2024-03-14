@@ -114,10 +114,14 @@ namespace InheritingStatsCalculator
 
         private void HPParent1TextBox_KeyPress(object sender, KeyPressEventArgs e)
         {
-            HPParent1TextBox.Select(1, HPParent1TextBox.Text.Length);
             if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar))
             {
                 e.Handled = true;
+            }
+            if (HPParent1TextBox.Text.Length > 1)
+            {
+                HPParent1TextBox.Text = HPParent1TextBox.Text.Remove(0,1);
+                HPParent1TextBox.Select(HPParent1TextBox.Text.Length, 0);
             }
         }
 
@@ -128,6 +132,11 @@ namespace InheritingStatsCalculator
             {
                 e.Handled = true;
             }
+            if (AtkParent1TextBox.Text.Length > 1)
+            {
+                AtkParent1TextBox.Text = AtkParent1TextBox.Text.Remove(0, 1);
+                AtkParent1TextBox.Select(AtkParent1TextBox.Text.Length, 0);
+            }
         }
 
         private void DefParent1TextBox_KeyPress(object sender, KeyPressEventArgs e)
@@ -136,6 +145,11 @@ namespace InheritingStatsCalculator
             if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar))
             {
                 e.Handled = true;
+            }
+            if (DefParent1TextBox.Text.Length > 1)
+            {
+                DefParent1TextBox.Text = DefParent1TextBox.Text.Remove(0, 1);
+                DefParent1TextBox.Select(DefParent1TextBox.Text.Length, 0);
             }
         }
 
@@ -146,6 +160,11 @@ namespace InheritingStatsCalculator
             {
                 e.Handled = true;
             }
+            if (SpAParent1TextBox.Text.Length > 1)
+            {
+                SpAParent1TextBox.Text = SpAParent1TextBox.Text.Remove(0, 1);
+                SpAParent1TextBox.Select(SpAParent1TextBox.Text.Length, 0);
+            }
         }
 
         private void SpDParent1TextBox_KeyPress(object sender, KeyPressEventArgs e)
@@ -154,6 +173,11 @@ namespace InheritingStatsCalculator
             if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar))
             {
                 e.Handled = true;
+            }
+            if (SpDParent1TextBox.Text.Length > 1)
+            {
+                SpDParent1TextBox.Text = SpDParent1TextBox.Text.Remove(0, 1);
+                SpDParent1TextBox.Select(SpDParent1TextBox.Text.Length, 0);
             }
         }
 
@@ -164,6 +188,11 @@ namespace InheritingStatsCalculator
             {
                 e.Handled = true;
             }
+            if (SpeParent1TextBox.Text.Length > 1)
+            {
+                SpeParent1TextBox.Text = SpeParent1TextBox.Text.Remove(0, 1);
+                SpeParent1TextBox.Select(SpeParent1TextBox.Text.Length, 0);
+            }
         }
 
         private void HPParent2TextBox_KeyPress(object sender, KeyPressEventArgs e)
@@ -172,6 +201,11 @@ namespace InheritingStatsCalculator
             if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar))
             {
                 e.Handled = true;
+            }
+            if (HPParent2TextBox.Text.Length > 1)
+            {
+                HPParent2TextBox.Text = HPParent2TextBox.Text.Remove(0, 1);
+                HPParent2TextBox.Select(HPParent2TextBox.Text.Length, 0);
             }
         }
 
@@ -182,6 +216,11 @@ namespace InheritingStatsCalculator
             {
                 e.Handled = true;
             }
+            if (AtkParent2TextBox.Text.Length > 1)
+            {
+                AtkParent2TextBox.Text = AtkParent2TextBox.Text.Remove(0, 1);
+                AtkParent2TextBox.Select(AtkParent2TextBox.Text.Length, 0);
+            }
         }
 
         private void DefParent2TextBox_KeyPress(object sender, KeyPressEventArgs e)
@@ -190,6 +229,11 @@ namespace InheritingStatsCalculator
             if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar))
             {
                 e.Handled = true;
+            }
+            if (DefParent2TextBox.Text.Length > 1)
+            {
+                DefParent2TextBox.Text = DefParent2TextBox.Text.Remove(0, 1);
+                DefParent2TextBox.Select(DefParent2TextBox.Text.Length, 0);
             }
         }
 
@@ -200,6 +244,11 @@ namespace InheritingStatsCalculator
             {
                 e.Handled = true;
             }
+            if (SpAParent2TextBox.Text.Length > 1)
+            {
+                SpAParent2TextBox.Text = SpAParent2TextBox.Text.Remove(0, 1);
+                SpAParent2TextBox.Select(SpAParent2TextBox.Text.Length, 0);
+            }
         }
 
         private void SpDParent2TextBox_KeyPress(object sender, KeyPressEventArgs e)
@@ -208,6 +257,11 @@ namespace InheritingStatsCalculator
             if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar))
             {
                 e.Handled = true;
+            }
+            if (SpDParent2TextBox.Text.Length > 1)
+            {
+                SpDParent2TextBox.Text = SpDParent2TextBox.Text.Remove(0, 1);
+                SpDParent2TextBox.Select(SpDParent2TextBox.Text.Length, 0);
             }
         }
 
@@ -218,6 +272,11 @@ namespace InheritingStatsCalculator
             {
                 e.Handled = true;
             }
+            if (SpeParent2TextBox.Text.Length > 1)
+            {
+                SpeParent2TextBox.Text = SpeParent2TextBox.Text.Remove(0, 1);
+                SpeParent2TextBox.Select(SpeParent2TextBox.Text.Length, 0);
+            }
         }
 
         private void HPDesiredTextBox_KeyPress(object sender, KeyPressEventArgs e)
@@ -226,6 +285,11 @@ namespace InheritingStatsCalculator
             if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar))
             {
                 e.Handled = true;
+            }
+            if (    HPParent1TextBox.Text.Length > 1)
+            {
+                HPDesiredTextBox.Text = HPDesiredTextBox.Text.Remove(0, 1);
+                HPDesiredTextBox.Select(HPDesiredTextBox.Text.Length, 0);
             }
         }
 
@@ -236,6 +300,11 @@ namespace InheritingStatsCalculator
             {
                 e.Handled = true;
             }
+            if (AtkDesiredTextBox.Text.Length > 1)
+            {
+                AtkDesiredTextBox.Text = AtkDesiredTextBox.Text.Remove(0, 1);
+                AtkDesiredTextBox.Select(AtkDesiredTextBox.Text.Length, 0);
+            }
         }
 
         private void DefDesiredTextBox_KeyPress(object sender, KeyPressEventArgs e)
@@ -244,6 +313,11 @@ namespace InheritingStatsCalculator
             if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar))
             {
                 e.Handled = true;
+            }
+            if (DefDesiredTextBox.Text.Length > 1)
+            {
+                DefDesiredTextBox.Text = DefDesiredTextBox.Text.Remove(0, 1);
+                DefDesiredTextBox.Select(DefDesiredTextBox.Text.Length, 0);
             }
         }
 
@@ -254,6 +328,11 @@ namespace InheritingStatsCalculator
             {
                 e.Handled = true;
             }
+            if (SpADesiredTextBox.Text.Length > 1)
+            {
+                SpADesiredTextBox.Text = SpADesiredTextBox.Text.Remove(0, 1);
+                SpADesiredTextBox.Select(SpADesiredTextBox.Text.Length, 0);
+            }
         }
 
         private void SpDDesiredTextBox_KeyPress(object sender, KeyPressEventArgs e)
@@ -263,6 +342,11 @@ namespace InheritingStatsCalculator
             {
                 e.Handled = true;
             }
+            if (SpDDesiredTextBox.Text.Length > 1)
+            {
+                SpDDesiredTextBox.Text = SpDDesiredTextBox.Text.Remove(0, 1);
+                SpDDesiredTextBox.Select(SpDDesiredTextBox.Text.Length, 0);
+            }
         }
 
         private void SpeDesiredTextBox_KeyPress(object sender, KeyPressEventArgs e)
@@ -271,6 +355,11 @@ namespace InheritingStatsCalculator
             if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar))
             {
                 e.Handled = true;
+            }
+            if (SpeDesiredTextBox.Text.Length > 1)
+            {
+                SpeDesiredTextBox.Text = SpeDesiredTextBox.Text.Remove(0, 1);
+                SpeDesiredTextBox.Select(SpeDesiredTextBox.Text.Length, 0);
             }
         }
 
