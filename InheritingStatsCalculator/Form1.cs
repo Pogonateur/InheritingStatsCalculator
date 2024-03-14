@@ -120,5 +120,158 @@ namespace InheritingStatsCalculator
                 e.Handled = true;
             }
         }
+
+        private void AtkParent1TextBox_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            AtkParent1TextBox.Select(1, AtkParent1TextBox.Text.Length);
+            if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar))
+            {
+                e.Handled = true;
+            }
+        }
+
+        private void DefParent1TextBox_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            DefParent1TextBox.Select(1, DefParent1TextBox.Text.Length);
+            if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar))
+            {
+                e.Handled = true;
+            }
+        }
+
+        private void SpAParent1TextBox_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            SpAParent1TextBox.Select(1, SpAParent1TextBox.Text.Length);
+            if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar))
+            {
+                e.Handled = true;
+            }
+        }
+
+        private void SpDParent1TextBox_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            SpDParent1TextBox.Select(1, SpDParent1TextBox.Text.Length);
+            if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar))
+            {
+                e.Handled = true;
+            }
+        }
+
+        private void SpeParent1TextBox_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            SpeParent1TextBox.Select(1, SpeParent1TextBox.Text.Length);
+            if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar))
+            {
+                e.Handled = true;
+            }
+        }
+
+        private void HPParent2TextBox_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            HPParent2TextBox.Select(1, HPParent2TextBox.Text.Length);
+            if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar))
+            {
+                e.Handled = true;
+            }
+        }
+
+        private void AtkParent2TextBox_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            AtkParent2TextBox.Select(1, AtkParent2TextBox.Text.Length);
+            if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar))
+            {
+                e.Handled = true;
+            }
+        }
+
+        private void DefParent2TextBox_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            DefParent2TextBox.Select(1, DefParent2TextBox.Text.Length);
+            if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar))
+            {
+                e.Handled = true;
+            }
+        }
+
+        private void SpAParent2TextBox_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            SpAParent2TextBox.Select(1, SpAParent2TextBox.Text.Length);
+            if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar))
+            {
+                e.Handled = true;
+            }
+        }
+
+        private void SpDParent2TextBox_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            SpDParent2TextBox.Select(1, SpDParent2TextBox.Text.Length);
+            if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar))
+            {
+                e.Handled = true;
+            }
+        }
+
+        private void SpeParent2TextBox_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            SpeParent2TextBox.Select(1, SpeParent2TextBox.Text.Length);
+            if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar))
+            {
+                e.Handled = true;
+            }
+        }
+
+        private void HPDesiredTextBox_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            HPDesiredTextBox.Select(1, HPDesiredTextBox.Text.Length);
+            if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar))
+            {
+                e.Handled = true;
+            }
+        }
+
+        private void AtkDesiredTextBox_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            AtkDesiredTextBox.Select(1, AtkDesiredTextBox.Text.Length);
+            if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar))
+            {
+                e.Handled = true;
+            }
+        }
+
+        private void DefDesiredTextBox_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            DefDesiredTextBox.Select(1, DefDesiredTextBox.Text.Length);
+            if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar))
+            {
+                e.Handled = true;
+            }
+        }
+
+        private void SpADesiredTextBox_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            SpADesiredTextBox.Select(1, SpADesiredTextBox.Text.Length);
+            if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar))
+            {
+                e.Handled = true;
+            }
+        }
+
+        private void SpDDesiredTextBox_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            SpDDesiredTextBox.Select(1, SpDDesiredTextBox.Text.Length);
+            if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar))
+            {
+                e.Handled = true;
+            }
+        }
+
+        private void SpeDesiredTextBox_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            SpeDesiredTextBox.Select(1, SpeDesiredTextBox.Text.Length);
+            if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar))
+            {
+                e.Handled = true;
+            }
+        }
     }
 }
