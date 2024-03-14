@@ -175,7 +175,7 @@
     <value>44, 26</value>
   </data>
   <data name="SpeParent1TextBox.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
+    <value>5</value>
   </data>
   <data name="SpeParent1TextBox.Text" xml:space="preserve">
     <value>31</value>
@@ -208,7 +208,7 @@
     <value>44, 26</value>
   </data>
   <data name="SpDParent1TextBox.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
+    <value>4</value>
   </data>
   <data name="SpDParent1TextBox.Text" xml:space="preserve">
     <value>31</value>
@@ -241,7 +241,7 @@
     <value>44, 26</value>
   </data>
   <data name="SpAParent1TextBox.TabIndex" type="System.Int32, mscorlib">
-    <value>2</value>
+    <value>3</value>
   </data>
   <data name="SpAParent1TextBox.Text" xml:space="preserve">
     <value>31</value>
@@ -274,7 +274,7 @@
     <value>44, 26</value>
   </data>
   <data name="DefParent1TextBox.TabIndex" type="System.Int32, mscorlib">
-    <value>3</value>
+    <value>2</value>
   </data>
   <data name="DefParent1TextBox.Text" xml:space="preserve">
     <value>31</value>
@@ -307,7 +307,7 @@
     <value>44, 26</value>
   </data>
   <data name="AtkParent1TextBox.TabIndex" type="System.Int32, mscorlib">
-    <value>4</value>
+    <value>1</value>
   </data>
   <data name="AtkParent1TextBox.Text" xml:space="preserve">
     <value>31</value>
@@ -769,7 +769,7 @@
     <value>44, 26</value>
   </data>
   <data name="HPParent1TextBox.TabIndex" type="System.Int32, mscorlib">
-    <value>12</value>
+    <value>0</value>
   </data>
   <data name="HPParent1TextBox.Text" xml:space="preserve">
     <value>31</value>
@@ -901,7 +901,7 @@
     <value>43, 26</value>
   </data>
   <data name="SpeParent2TextBox.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
+    <value>5</value>
   </data>
   <data name="SpeParent2TextBox.Text" xml:space="preserve">
     <value>31</value>
@@ -934,7 +934,7 @@
     <value>43, 26</value>
   </data>
   <data name="SpDParent2TextBox.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
+    <value>4</value>
   </data>
   <data name="SpDParent2TextBox.Text" xml:space="preserve">
     <value>31</value>
@@ -967,7 +967,7 @@
     <value>43, 26</value>
   </data>
   <data name="SpAParent2TextBox.TabIndex" type="System.Int32, mscorlib">
-    <value>2</value>
+    <value>3</value>
   </data>
   <data name="SpAParent2TextBox.Text" xml:space="preserve">
     <value>31</value>
@@ -1000,7 +1000,7 @@
     <value>43, 26</value>
   </data>
   <data name="DefParent2TextBox.TabIndex" type="System.Int32, mscorlib">
-    <value>3</value>
+    <value>2</value>
   </data>
   <data name="DefParent2TextBox.Text" xml:space="preserve">
     <value>31</value>
@@ -1033,7 +1033,7 @@
     <value>43, 26</value>
   </data>
   <data name="AtkParent2TextBox.TabIndex" type="System.Int32, mscorlib">
-    <value>4</value>
+    <value>1</value>
   </data>
   <data name="AtkParent2TextBox.Text" xml:space="preserve">
     <value>31</value>
@@ -1498,7 +1498,7 @@
     <value>43, 26</value>
   </data>
   <data name="HPParent2TextBox.TabIndex" type="System.Int32, mscorlib">
-    <value>12</value>
+    <value>0</value>
   </data>
   <data name="HPParent2TextBox.Text" xml:space="preserve">
     <value>31</value>
@@ -2227,7 +2227,7 @@
     <value>40, 26</value>
   </data>
   <data name="HPDesiredTextBox.TabIndex" type="System.Int32, mscorlib">
-    <value>24</value>
+    <value>0</value>
   </data>
   <data name="HPDesiredTextBox.Text" xml:space="preserve">
     <value>31</value>
@@ -2260,7 +2260,7 @@
     <value>40, 26</value>
   </data>
   <data name="AtkDesiredTextBox.TabIndex" type="System.Int32, mscorlib">
-    <value>25</value>
+    <value>1</value>
   </data>
   <data name="AtkDesiredTextBox.Text" xml:space="preserve">
     <value>31</value>
@@ -2293,7 +2293,7 @@
     <value>40, 26</value>
   </data>
   <data name="DefDesiredTextBox.TabIndex" type="System.Int32, mscorlib">
-    <value>26</value>
+    <value>2</value>
   </data>
   <data name="DefDesiredTextBox.Text" xml:space="preserve">
     <value>31</value>
@@ -2326,7 +2326,7 @@
     <value>40, 26</value>
   </data>
   <data name="SpADesiredTextBox.TabIndex" type="System.Int32, mscorlib">
-    <value>27</value>
+    <value>3</value>
   </data>
   <data name="SpADesiredTextBox.Text" xml:space="preserve">
     <value>31</value>
@@ -2359,7 +2359,7 @@
     <value>40, 26</value>
   </data>
   <data name="SpDDesiredTextBox.TabIndex" type="System.Int32, mscorlib">
-    <value>28</value>
+    <value>4</value>
   </data>
   <data name="SpDDesiredTextBox.Text" xml:space="preserve">
     <value>31</value>
@@ -2392,7 +2392,7 @@
     <value>40, 26</value>
   </data>
   <data name="SpeDesiredTextBox.TabIndex" type="System.Int32, mscorlib">
-    <value>29</value>
+    <value>5</value>
   </data>
   <data name="SpeDesiredTextBox.Text" xml:space="preserve">
     <value>31</value>
