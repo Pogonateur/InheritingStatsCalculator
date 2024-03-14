@@ -273,5 +273,17 @@ namespace InheritingStatsCalculator
                 e.Handled = true;
             }
         }
+
+        private void HPParent1TextBox_Leave(object sender, EventArgs e)
+        {
+            if (HPParent1TextBox.Text.Length == 0)
+            {
+                HPParent1TextBox.Text = "0";
+            }
+            if (Int32.Parse(HPParent1TextBox.Text) > 31)
+            {
+                HPParent1TextBox.Text = "31";
+            }
+        }
     }
 }

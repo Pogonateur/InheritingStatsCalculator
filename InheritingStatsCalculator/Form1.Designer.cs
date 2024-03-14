@@ -237,6 +237,7 @@
             resources.ApplyResources(this.HPParent1TextBox, "HPParent1TextBox");
             this.HPParent1TextBox.Name = "HPParent1TextBox";
             this.HPParent1TextBox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBox1_KeyPress);
+            this.HPParent1TextBox.Leave += new System.EventHandler(this.HPParent1TextBox_Leave);
             // 
             // tableLayoutPanel3
             // 
