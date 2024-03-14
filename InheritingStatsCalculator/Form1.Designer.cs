@@ -146,30 +146,35 @@
             // 
             resources.ApplyResources(this.SpeParent1TextBox, "SpeParent1TextBox");
             this.SpeParent1TextBox.Name = "SpeParent1TextBox";
+            this.SpeParent1TextBox.ShortcutsEnabled = false;
             this.SpeParent1TextBox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.SpeParent1TextBox_KeyPress);
             // 
             // SpDParent1TextBox
             // 
             resources.ApplyResources(this.SpDParent1TextBox, "SpDParent1TextBox");
             this.SpDParent1TextBox.Name = "SpDParent1TextBox";
+            this.SpDParent1TextBox.ShortcutsEnabled = false;
             this.SpDParent1TextBox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.SpDParent1TextBox_KeyPress);
             // 
             // SpAParent1TextBox
             // 
             resources.ApplyResources(this.SpAParent1TextBox, "SpAParent1TextBox");
             this.SpAParent1TextBox.Name = "SpAParent1TextBox";
+            this.SpAParent1TextBox.ShortcutsEnabled = false;
             this.SpAParent1TextBox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.SpAParent1TextBox_KeyPress);
             // 
             // DefParent1TextBox
             // 
             resources.ApplyResources(this.DefParent1TextBox, "DefParent1TextBox");
             this.DefParent1TextBox.Name = "DefParent1TextBox";
+            this.DefParent1TextBox.ShortcutsEnabled = false;
             this.DefParent1TextBox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.DefParent1TextBox_KeyPress);
             // 
             // AtkParent1TextBox
             // 
             resources.ApplyResources(this.AtkParent1TextBox, "AtkParent1TextBox");
             this.AtkParent1TextBox.Name = "AtkParent1TextBox";
+            this.AtkParent1TextBox.ShortcutsEnabled = false;
             this.AtkParent1TextBox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.AtkParent1TextBox_KeyPress);
             // 
             // label2
@@ -236,6 +241,7 @@
             // 
             resources.ApplyResources(this.HPParent1TextBox, "HPParent1TextBox");
             this.HPParent1TextBox.Name = "HPParent1TextBox";
+            this.HPParent1TextBox.ShortcutsEnabled = false;
             this.HPParent1TextBox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBox1_KeyPress);
             this.HPParent1TextBox.Leave += new System.EventHandler(this.HPParent1TextBox_Leave);
             // 
@@ -279,30 +285,35 @@
             // 
             resources.ApplyResources(this.SpeParent2TextBox, "SpeParent2TextBox");
             this.SpeParent2TextBox.Name = "SpeParent2TextBox";
+            this.SpeParent2TextBox.ShortcutsEnabled = false;
             this.SpeParent2TextBox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.SpeParent2TextBox_KeyPress);
             // 
             // SpDParent2TextBox
             // 
             resources.ApplyResources(this.SpDParent2TextBox, "SpDParent2TextBox");
             this.SpDParent2TextBox.Name = "SpDParent2TextBox";
+            this.SpDParent2TextBox.ShortcutsEnabled = false;
             this.SpDParent2TextBox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.SpDParent2TextBox_KeyPress);
             // 
             // SpAParent2TextBox
             // 
             resources.ApplyResources(this.SpAParent2TextBox, "SpAParent2TextBox");
             this.SpAParent2TextBox.Name = "SpAParent2TextBox";
+            this.SpAParent2TextBox.ShortcutsEnabled = false;
             this.SpAParent2TextBox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.SpAParent2TextBox_KeyPress);
             // 
             // DefParent2TextBox
             // 
             resources.ApplyResources(this.DefParent2TextBox, "DefParent2TextBox");
             this.DefParent2TextBox.Name = "DefParent2TextBox";
+            this.DefParent2TextBox.ShortcutsEnabled = false;
             this.DefParent2TextBox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.DefParent2TextBox_KeyPress);
             // 
             // AtkParent2TextBox
             // 
             resources.ApplyResources(this.AtkParent2TextBox, "AtkParent2TextBox");
             this.AtkParent2TextBox.Name = "AtkParent2TextBox";
+            this.AtkParent2TextBox.ShortcutsEnabled = false;
             this.AtkParent2TextBox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.AtkParent2TextBox_KeyPress);
             // 
             // label15
@@ -369,6 +380,7 @@
             // 
             resources.ApplyResources(this.HPParent2TextBox, "HPParent2TextBox");
             this.HPParent2TextBox.Name = "HPParent2TextBox";
+            this.HPParent2TextBox.ShortcutsEnabled = false;
             this.HPParent2TextBox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.HPParent2TextBox_KeyPress);
             // 
             // tableLayoutPanel5
@@ -517,36 +529,42 @@
             // 
             resources.ApplyResources(this.HPDesiredTextBox, "HPDesiredTextBox");
             this.HPDesiredTextBox.Name = "HPDesiredTextBox";
+            this.HPDesiredTextBox.ShortcutsEnabled = false;
             this.HPDesiredTextBox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.HPDesiredTextBox_KeyPress);
             // 
             // AtkDesiredTextBox
             // 
             resources.ApplyResources(this.AtkDesiredTextBox, "AtkDesiredTextBox");
             this.AtkDesiredTextBox.Name = "AtkDesiredTextBox";
+            this.AtkDesiredTextBox.ShortcutsEnabled = false;
             this.AtkDesiredTextBox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.AtkDesiredTextBox_KeyPress);
             // 
             // DefDesiredTextBox
             // 
             resources.ApplyResources(this.DefDesiredTextBox, "DefDesiredTextBox");
             this.DefDesiredTextBox.Name = "DefDesiredTextBox";
+            this.DefDesiredTextBox.ShortcutsEnabled = false;
             this.DefDesiredTextBox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.DefDesiredTextBox_KeyPress);
             // 
             // SpADesiredTextBox
             // 
             resources.ApplyResources(this.SpADesiredTextBox, "SpADesiredTextBox");
             this.SpADesiredTextBox.Name = "SpADesiredTextBox";
+            this.SpADesiredTextBox.ShortcutsEnabled = false;
             this.SpADesiredTextBox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.SpADesiredTextBox_KeyPress);
             // 
             // SpDDesiredTextBox
             // 
             resources.ApplyResources(this.SpDDesiredTextBox, "SpDDesiredTextBox");
             this.SpDDesiredTextBox.Name = "SpDDesiredTextBox";
+            this.SpDDesiredTextBox.ShortcutsEnabled = false;
             this.SpDDesiredTextBox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.SpDDesiredTextBox_KeyPress);
             // 
             // SpeDesiredTextBox
             // 
             resources.ApplyResources(this.SpeDesiredTextBox, "SpeDesiredTextBox");
             this.SpeDesiredTextBox.Name = "SpeDesiredTextBox";
+            this.SpeDesiredTextBox.ShortcutsEnabled = false;
             this.SpeDesiredTextBox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.SpeDesiredTextBox_KeyPress);
             // 
             // greaterHPButton

@@ -280,9 +280,15 @@ namespace InheritingStatsCalculator
             {
                 HPParent1TextBox.Text = "0";
             }
-            if (Int32.Parse(HPParent1TextBox.Text) > 31)
+            try
             {
-                HPParent1TextBox.Text = "31";
+                if (Int32.Parse(HPParent1TextBox.Text) > 31)
+                {
+                    HPParent1TextBox.Text = "31";
+                }
+            } catch
+            {
+                    HPParent1TextBox.Text = "31";
             }
         }
     }
