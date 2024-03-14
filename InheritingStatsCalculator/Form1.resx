@@ -162,124 +162,169 @@
   <data name="tableLayoutPanel2.ColumnCount" type="System.Int32, mscorlib">
     <value>3</value>
   </data>
-  <data name="textBox6.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+  <data name="SpeParent1TextBox.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Left, Right</value>
   </data>
-  <data name="textBox6.Location" type="System.Drawing.Point, System.Drawing">
-    <value>82, 211</value>
+  <data name="SpeParent1TextBox.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12pt, style=Bold</value>
   </data>
-  <data name="textBox6.Size" type="System.Drawing.Size, System.Drawing">
-    <value>46, 20</value>
+  <data name="SpeParent1TextBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>81, 208</value>
   </data>
-  <data name="textBox6.TabIndex" type="System.Int32, mscorlib">
-    <value>17</value>
+  <data name="SpeParent1TextBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>46, 26</value>
   </data>
-  <data name="&gt;&gt;textBox6.Name" xml:space="preserve">
-    <value>textBox6</value>
-  </data>
-  <data name="&gt;&gt;textBox6.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;textBox6.Parent" xml:space="preserve">
-    <value>tableLayoutPanel2</value>
-  </data>
-  <data name="&gt;&gt;textBox6.ZOrder" xml:space="preserve">
+  <data name="SpeParent1TextBox.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
   </data>
-  <data name="textBox5.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Left, Right</value>
+  <data name="SpeParent1TextBox.Text" xml:space="preserve">
+    <value>31</value>
   </data>
-  <data name="textBox5.Location" type="System.Drawing.Point, System.Drawing">
-    <value>82, 170</value>
+  <data name="SpeParent1TextBox.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Center</value>
   </data>
-  <data name="textBox5.Size" type="System.Drawing.Size, System.Drawing">
-    <value>46, 20</value>
+  <data name="&gt;&gt;SpeParent1TextBox.Name" xml:space="preserve">
+    <value>SpeParent1TextBox</value>
   </data>
-  <data name="textBox5.TabIndex" type="System.Int32, mscorlib">
-    <value>16</value>
-  </data>
-  <data name="&gt;&gt;textBox5.Name" xml:space="preserve">
-    <value>textBox5</value>
-  </data>
-  <data name="&gt;&gt;textBox5.Type" xml:space="preserve">
+  <data name="&gt;&gt;SpeParent1TextBox.Type" xml:space="preserve">
     <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;textBox5.Parent" xml:space="preserve">
+  <data name="&gt;&gt;SpeParent1TextBox.Parent" xml:space="preserve">
     <value>tableLayoutPanel2</value>
   </data>
-  <data name="&gt;&gt;textBox5.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;SpeParent1TextBox.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="SpDParent1TextBox.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Left, Right</value>
+  </data>
+  <data name="SpDParent1TextBox.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12pt, style=Bold</value>
+  </data>
+  <data name="SpDParent1TextBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>81, 167</value>
+  </data>
+  <data name="SpDParent1TextBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>46, 26</value>
+  </data>
+  <data name="SpDParent1TextBox.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
   </data>
-  <data name="textBox4.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Left, Right</value>
+  <data name="SpDParent1TextBox.Text" xml:space="preserve">
+    <value>31</value>
   </data>
-  <data name="textBox4.Location" type="System.Drawing.Point, System.Drawing">
-    <value>82, 130</value>
+  <data name="SpDParent1TextBox.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Center</value>
   </data>
-  <data name="textBox4.Size" type="System.Drawing.Size, System.Drawing">
-    <value>46, 20</value>
+  <data name="&gt;&gt;SpDParent1TextBox.Name" xml:space="preserve">
+    <value>SpDParent1TextBox</value>
   </data>
-  <data name="textBox4.TabIndex" type="System.Int32, mscorlib">
-    <value>15</value>
-  </data>
-  <data name="&gt;&gt;textBox4.Name" xml:space="preserve">
-    <value>textBox4</value>
-  </data>
-  <data name="&gt;&gt;textBox4.Type" xml:space="preserve">
+  <data name="&gt;&gt;SpDParent1TextBox.Type" xml:space="preserve">
     <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;textBox4.Parent" xml:space="preserve">
+  <data name="&gt;&gt;SpDParent1TextBox.Parent" xml:space="preserve">
     <value>tableLayoutPanel2</value>
   </data>
-  <data name="&gt;&gt;textBox4.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;SpDParent1TextBox.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="SpAParent1TextBox.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Left, Right</value>
+  </data>
+  <data name="SpAParent1TextBox.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12pt, style=Bold</value>
+  </data>
+  <data name="SpAParent1TextBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>81, 127</value>
+  </data>
+  <data name="SpAParent1TextBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>46, 26</value>
+  </data>
+  <data name="SpAParent1TextBox.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
   </data>
-  <data name="textBox3.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Left, Right</value>
+  <data name="SpAParent1TextBox.Text" xml:space="preserve">
+    <value>31</value>
   </data>
-  <data name="textBox3.Location" type="System.Drawing.Point, System.Drawing">
-    <value>82, 90</value>
+  <data name="SpAParent1TextBox.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Center</value>
   </data>
-  <data name="textBox3.Size" type="System.Drawing.Size, System.Drawing">
-    <value>46, 20</value>
+  <data name="&gt;&gt;SpAParent1TextBox.Name" xml:space="preserve">
+    <value>SpAParent1TextBox</value>
   </data>
-  <data name="textBox3.TabIndex" type="System.Int32, mscorlib">
-    <value>14</value>
-  </data>
-  <data name="&gt;&gt;textBox3.Name" xml:space="preserve">
-    <value>textBox3</value>
-  </data>
-  <data name="&gt;&gt;textBox3.Type" xml:space="preserve">
+  <data name="&gt;&gt;SpAParent1TextBox.Type" xml:space="preserve">
     <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;textBox3.Parent" xml:space="preserve">
+  <data name="&gt;&gt;SpAParent1TextBox.Parent" xml:space="preserve">
     <value>tableLayoutPanel2</value>
   </data>
-  <data name="&gt;&gt;textBox3.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;SpAParent1TextBox.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="DefParent1TextBox.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Left, Right</value>
+  </data>
+  <data name="DefParent1TextBox.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12pt, style=Bold</value>
+  </data>
+  <data name="DefParent1TextBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>81, 87</value>
+  </data>
+  <data name="DefParent1TextBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>46, 26</value>
+  </data>
+  <data name="DefParent1TextBox.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
   </data>
-  <data name="textBox2.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Left, Right</value>
+  <data name="DefParent1TextBox.Text" xml:space="preserve">
+    <value>31</value>
   </data>
-  <data name="textBox2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>82, 50</value>
+  <data name="DefParent1TextBox.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Center</value>
   </data>
-  <data name="textBox2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>46, 20</value>
+  <data name="&gt;&gt;DefParent1TextBox.Name" xml:space="preserve">
+    <value>DefParent1TextBox</value>
   </data>
-  <data name="textBox2.TabIndex" type="System.Int32, mscorlib">
-    <value>13</value>
-  </data>
-  <data name="&gt;&gt;textBox2.Name" xml:space="preserve">
-    <value>textBox2</value>
-  </data>
-  <data name="&gt;&gt;textBox2.Type" xml:space="preserve">
+  <data name="&gt;&gt;DefParent1TextBox.Type" xml:space="preserve">
     <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;textBox2.Parent" xml:space="preserve">
+  <data name="&gt;&gt;DefParent1TextBox.Parent" xml:space="preserve">
     <value>tableLayoutPanel2</value>
   </data>
-  <data name="&gt;&gt;textBox2.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;DefParent1TextBox.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="AtkParent1TextBox.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Left, Right</value>
+  </data>
+  <data name="AtkParent1TextBox.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12pt, style=Bold</value>
+  </data>
+  <data name="AtkParent1TextBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>81, 47</value>
+  </data>
+  <data name="AtkParent1TextBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>46, 26</value>
+  </data>
+  <data name="AtkParent1TextBox.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="AtkParent1TextBox.Text" xml:space="preserve">
+    <value>31</value>
+  </data>
+  <data name="AtkParent1TextBox.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Center</value>
+  </data>
+  <data name="&gt;&gt;AtkParent1TextBox.Name" xml:space="preserve">
+    <value>AtkParent1TextBox</value>
+  </data>
+  <data name="&gt;&gt;AtkParent1TextBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;AtkParent1TextBox.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;AtkParent1TextBox.ZOrder" xml:space="preserve">
     <value>4</value>
   </data>
   <data name="label2.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
@@ -292,7 +337,7 @@
     <value>Microsoft Sans Serif, 14.25pt, style=Bold</value>
   </data>
   <data name="label2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>14, 8</value>
+    <value>13, 8</value>
   </data>
   <data name="label2.Size" type="System.Drawing.Size, System.Drawing">
     <value>62, 24</value>
@@ -328,7 +373,7 @@
     <value>NoControl</value>
   </data>
   <data name="label3.Location" type="System.Drawing.Point, System.Drawing">
-    <value>13, 48</value>
+    <value>12, 48</value>
   </data>
   <data name="label3.Size" type="System.Drawing.Size, System.Drawing">
     <value>63, 24</value>
@@ -364,7 +409,7 @@
     <value>NoControl</value>
   </data>
   <data name="label4.Location" type="System.Drawing.Point, System.Drawing">
-    <value>11, 88</value>
+    <value>10, 88</value>
   </data>
   <data name="label4.Size" type="System.Drawing.Size, System.Drawing">
     <value>65, 24</value>
@@ -400,10 +445,10 @@
     <value>NoControl</value>
   </data>
   <data name="label5.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 128</value>
+    <value>14, 120</value>
   </data>
   <data name="label5.Size" type="System.Drawing.Size, System.Drawing">
-    <value>73, 24</value>
+    <value>61, 40</value>
   </data>
   <data name="label5.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
@@ -436,10 +481,10 @@
     <value>NoControl</value>
   </data>
   <data name="label6.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 168</value>
+    <value>14, 160</value>
   </data>
   <data name="label6.Size" type="System.Drawing.Size, System.Drawing">
-    <value>73, 24</value>
+    <value>61, 40</value>
   </data>
   <data name="label6.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
@@ -472,7 +517,7 @@
     <value>NoControl</value>
   </data>
   <data name="label7.Location" type="System.Drawing.Point, System.Drawing">
-    <value>5, 209</value>
+    <value>4, 209</value>
   </data>
   <data name="label7.Size" type="System.Drawing.Size, System.Drawing">
     <value>71, 24</value>
@@ -508,7 +553,7 @@
     <value>NoControl</value>
   </data>
   <data name="label8.Location" type="System.Drawing.Point, System.Drawing">
-    <value>134, 8</value>
+    <value>133, 8</value>
   </data>
   <data name="label8.Size" type="System.Drawing.Size, System.Drawing">
     <value>39, 24</value>
@@ -544,7 +589,7 @@
     <value>NoControl</value>
   </data>
   <data name="label9.Location" type="System.Drawing.Point, System.Drawing">
-    <value>134, 48</value>
+    <value>133, 48</value>
   </data>
   <data name="label9.Size" type="System.Drawing.Size, System.Drawing">
     <value>39, 24</value>
@@ -580,7 +625,7 @@
     <value>NoControl</value>
   </data>
   <data name="label10.Location" type="System.Drawing.Point, System.Drawing">
-    <value>134, 88</value>
+    <value>133, 88</value>
   </data>
   <data name="label10.Size" type="System.Drawing.Size, System.Drawing">
     <value>39, 24</value>
@@ -616,7 +661,7 @@
     <value>NoControl</value>
   </data>
   <data name="label11.Location" type="System.Drawing.Point, System.Drawing">
-    <value>134, 128</value>
+    <value>133, 128</value>
   </data>
   <data name="label11.Size" type="System.Drawing.Size, System.Drawing">
     <value>39, 24</value>
@@ -652,7 +697,7 @@
     <value>NoControl</value>
   </data>
   <data name="label12.Location" type="System.Drawing.Point, System.Drawing">
-    <value>134, 168</value>
+    <value>133, 168</value>
   </data>
   <data name="label12.Size" type="System.Drawing.Size, System.Drawing">
     <value>39, 24</value>
@@ -688,7 +733,7 @@
     <value>NoControl</value>
   </data>
   <data name="label13.Location" type="System.Drawing.Point, System.Drawing">
-    <value>134, 209</value>
+    <value>133, 209</value>
   </data>
   <data name="label13.Size" type="System.Drawing.Size, System.Drawing">
     <value>39, 24</value>
@@ -711,28 +756,37 @@
   <data name="&gt;&gt;label13.ZOrder" xml:space="preserve">
     <value>16</value>
   </data>
-  <data name="textBox1.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+  <data name="HPParent1TextBox.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Left, Right</value>
   </data>
-  <data name="textBox1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>82, 10</value>
+  <data name="HPParent1TextBox.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12pt, style=Bold</value>
   </data>
-  <data name="textBox1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>46, 20</value>
+  <data name="HPParent1TextBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>81, 7</value>
   </data>
-  <data name="textBox1.TabIndex" type="System.Int32, mscorlib">
+  <data name="HPParent1TextBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>46, 26</value>
+  </data>
+  <data name="HPParent1TextBox.TabIndex" type="System.Int32, mscorlib">
     <value>12</value>
   </data>
-  <data name="&gt;&gt;textBox1.Name" xml:space="preserve">
-    <value>textBox1</value>
+  <data name="HPParent1TextBox.Text" xml:space="preserve">
+    <value>31</value>
   </data>
-  <data name="&gt;&gt;textBox1.Type" xml:space="preserve">
+  <data name="HPParent1TextBox.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Center</value>
+  </data>
+  <data name="&gt;&gt;HPParent1TextBox.Name" xml:space="preserve">
+    <value>HPParent1TextBox</value>
+  </data>
+  <data name="&gt;&gt;HPParent1TextBox.Type" xml:space="preserve">
     <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;textBox1.Parent" xml:space="preserve">
+  <data name="&gt;&gt;HPParent1TextBox.Parent" xml:space="preserve">
     <value>tableLayoutPanel2</value>
   </data>
-  <data name="&gt;&gt;textBox1.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;HPParent1TextBox.ZOrder" xml:space="preserve">
     <value>17</value>
   </data>
   <data name="tableLayoutPanel2.Location" type="System.Drawing.Point, System.Drawing">
@@ -760,7 +814,7 @@
     <value>1</value>
   </data>
   <data name="tableLayoutPanel2.LayoutSettings" type="System.Windows.Forms.TableLayoutSettings, System.Windows.Forms">
-    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="textBox6" Row="5" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="textBox5" Row="4" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="textBox4" Row="3" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="textBox3" Row="2" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="textBox2" Row="1" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="label2" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label3" Row="1" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label4" Row="2" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label5" Row="3" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label6" Row="4" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label7" Row="5" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label8" Row="0" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="label9" Row="1" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="label10" Row="2" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="label11" Row="3" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="label12" Row="4" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="label13" Row="5" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="textBox1" Row="0" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,60,Percent,40,Absolute,81" /&gt;&lt;Rows Styles="Percent,16,66666,Percent,16,66666,Percent,16,66666,Percent,16,66666,Percent,16,66666,Percent,16,66666" /&gt;&lt;/TableLayoutSettings&gt;</value>
+    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="SpeParent1TextBox" Row="5" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="SpDParent1TextBox" Row="4" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="SpAParent1TextBox" Row="3" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="DefParent1TextBox" Row="2" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="AtkParent1TextBox" Row="1" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="label2" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label3" Row="1" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label4" Row="2" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label5" Row="3" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label6" Row="4" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label7" Row="5" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label8" Row="0" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="label9" Row="1" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="label10" Row="2" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="label11" Row="3" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="label12" Row="4" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="label13" Row="5" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="HPParent1TextBox" Row="0" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,60,Percent,40,Absolute,83" /&gt;&lt;Rows Styles="Percent,16,66666,Percent,16,66666,Percent,16,66666,Percent,16,66666,Percent,16,66666,Percent,16,66666" /&gt;&lt;/TableLayoutSettings&gt;</value>
   </data>
   <data name="tableLayoutPanel1.Location" type="System.Drawing.Point, System.Drawing">
     <value>47, 49</value>
@@ -834,124 +888,169 @@
   <data name="tableLayoutPanel4.ColumnCount" type="System.Int32, mscorlib">
     <value>3</value>
   </data>
-  <data name="textBox7.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+  <data name="SpeParent2TextBox.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Left, Right</value>
   </data>
-  <data name="textBox7.Location" type="System.Drawing.Point, System.Drawing">
-    <value>82, 211</value>
+  <data name="SpeParent2TextBox.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12pt, style=Bold</value>
   </data>
-  <data name="textBox7.Size" type="System.Drawing.Size, System.Drawing">
-    <value>46, 20</value>
+  <data name="SpeParent2TextBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>81, 208</value>
   </data>
-  <data name="textBox7.TabIndex" type="System.Int32, mscorlib">
-    <value>17</value>
+  <data name="SpeParent2TextBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>46, 26</value>
   </data>
-  <data name="&gt;&gt;textBox7.Name" xml:space="preserve">
-    <value>textBox7</value>
-  </data>
-  <data name="&gt;&gt;textBox7.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;textBox7.Parent" xml:space="preserve">
-    <value>tableLayoutPanel4</value>
-  </data>
-  <data name="&gt;&gt;textBox7.ZOrder" xml:space="preserve">
+  <data name="SpeParent2TextBox.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
   </data>
-  <data name="textBox8.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Left, Right</value>
+  <data name="SpeParent2TextBox.Text" xml:space="preserve">
+    <value>31</value>
   </data>
-  <data name="textBox8.Location" type="System.Drawing.Point, System.Drawing">
-    <value>82, 170</value>
+  <data name="SpeParent2TextBox.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Center</value>
   </data>
-  <data name="textBox8.Size" type="System.Drawing.Size, System.Drawing">
-    <value>46, 20</value>
+  <data name="&gt;&gt;SpeParent2TextBox.Name" xml:space="preserve">
+    <value>SpeParent2TextBox</value>
   </data>
-  <data name="textBox8.TabIndex" type="System.Int32, mscorlib">
-    <value>16</value>
-  </data>
-  <data name="&gt;&gt;textBox8.Name" xml:space="preserve">
-    <value>textBox8</value>
-  </data>
-  <data name="&gt;&gt;textBox8.Type" xml:space="preserve">
+  <data name="&gt;&gt;SpeParent2TextBox.Type" xml:space="preserve">
     <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;textBox8.Parent" xml:space="preserve">
+  <data name="&gt;&gt;SpeParent2TextBox.Parent" xml:space="preserve">
     <value>tableLayoutPanel4</value>
   </data>
-  <data name="&gt;&gt;textBox8.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;SpeParent2TextBox.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="SpDParent2TextBox.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Left, Right</value>
+  </data>
+  <data name="SpDParent2TextBox.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12pt, style=Bold</value>
+  </data>
+  <data name="SpDParent2TextBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>81, 167</value>
+  </data>
+  <data name="SpDParent2TextBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>46, 26</value>
+  </data>
+  <data name="SpDParent2TextBox.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
   </data>
-  <data name="textBox9.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Left, Right</value>
+  <data name="SpDParent2TextBox.Text" xml:space="preserve">
+    <value>31</value>
   </data>
-  <data name="textBox9.Location" type="System.Drawing.Point, System.Drawing">
-    <value>82, 130</value>
+  <data name="SpDParent2TextBox.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Center</value>
   </data>
-  <data name="textBox9.Size" type="System.Drawing.Size, System.Drawing">
-    <value>46, 20</value>
+  <data name="&gt;&gt;SpDParent2TextBox.Name" xml:space="preserve">
+    <value>SpDParent2TextBox</value>
   </data>
-  <data name="textBox9.TabIndex" type="System.Int32, mscorlib">
-    <value>15</value>
-  </data>
-  <data name="&gt;&gt;textBox9.Name" xml:space="preserve">
-    <value>textBox9</value>
-  </data>
-  <data name="&gt;&gt;textBox9.Type" xml:space="preserve">
+  <data name="&gt;&gt;SpDParent2TextBox.Type" xml:space="preserve">
     <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;textBox9.Parent" xml:space="preserve">
+  <data name="&gt;&gt;SpDParent2TextBox.Parent" xml:space="preserve">
     <value>tableLayoutPanel4</value>
   </data>
-  <data name="&gt;&gt;textBox9.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;SpDParent2TextBox.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="SpAParent2TextBox.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Left, Right</value>
+  </data>
+  <data name="SpAParent2TextBox.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12pt, style=Bold</value>
+  </data>
+  <data name="SpAParent2TextBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>81, 127</value>
+  </data>
+  <data name="SpAParent2TextBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>46, 26</value>
+  </data>
+  <data name="SpAParent2TextBox.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
   </data>
-  <data name="textBox10.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Left, Right</value>
+  <data name="SpAParent2TextBox.Text" xml:space="preserve">
+    <value>31</value>
   </data>
-  <data name="textBox10.Location" type="System.Drawing.Point, System.Drawing">
-    <value>82, 90</value>
+  <data name="SpAParent2TextBox.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Center</value>
   </data>
-  <data name="textBox10.Size" type="System.Drawing.Size, System.Drawing">
-    <value>46, 20</value>
+  <data name="&gt;&gt;SpAParent2TextBox.Name" xml:space="preserve">
+    <value>SpAParent2TextBox</value>
   </data>
-  <data name="textBox10.TabIndex" type="System.Int32, mscorlib">
-    <value>14</value>
-  </data>
-  <data name="&gt;&gt;textBox10.Name" xml:space="preserve">
-    <value>textBox10</value>
-  </data>
-  <data name="&gt;&gt;textBox10.Type" xml:space="preserve">
+  <data name="&gt;&gt;SpAParent2TextBox.Type" xml:space="preserve">
     <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;textBox10.Parent" xml:space="preserve">
+  <data name="&gt;&gt;SpAParent2TextBox.Parent" xml:space="preserve">
     <value>tableLayoutPanel4</value>
   </data>
-  <data name="&gt;&gt;textBox10.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;SpAParent2TextBox.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="DefParent2TextBox.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Left, Right</value>
+  </data>
+  <data name="DefParent2TextBox.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12pt, style=Bold</value>
+  </data>
+  <data name="DefParent2TextBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>81, 87</value>
+  </data>
+  <data name="DefParent2TextBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>46, 26</value>
+  </data>
+  <data name="DefParent2TextBox.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
   </data>
-  <data name="textBox11.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Left, Right</value>
+  <data name="DefParent2TextBox.Text" xml:space="preserve">
+    <value>31</value>
   </data>
-  <data name="textBox11.Location" type="System.Drawing.Point, System.Drawing">
-    <value>82, 50</value>
+  <data name="DefParent2TextBox.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Center</value>
   </data>
-  <data name="textBox11.Size" type="System.Drawing.Size, System.Drawing">
-    <value>46, 20</value>
+  <data name="&gt;&gt;DefParent2TextBox.Name" xml:space="preserve">
+    <value>DefParent2TextBox</value>
   </data>
-  <data name="textBox11.TabIndex" type="System.Int32, mscorlib">
-    <value>13</value>
-  </data>
-  <data name="&gt;&gt;textBox11.Name" xml:space="preserve">
-    <value>textBox11</value>
-  </data>
-  <data name="&gt;&gt;textBox11.Type" xml:space="preserve">
+  <data name="&gt;&gt;DefParent2TextBox.Type" xml:space="preserve">
     <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;textBox11.Parent" xml:space="preserve">
+  <data name="&gt;&gt;DefParent2TextBox.Parent" xml:space="preserve">
     <value>tableLayoutPanel4</value>
   </data>
-  <data name="&gt;&gt;textBox11.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;DefParent2TextBox.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="AtkParent2TextBox.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Left, Right</value>
+  </data>
+  <data name="AtkParent2TextBox.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12pt, style=Bold</value>
+  </data>
+  <data name="AtkParent2TextBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>81, 47</value>
+  </data>
+  <data name="AtkParent2TextBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>46, 26</value>
+  </data>
+  <data name="AtkParent2TextBox.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="AtkParent2TextBox.Text" xml:space="preserve">
+    <value>31</value>
+  </data>
+  <data name="AtkParent2TextBox.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Center</value>
+  </data>
+  <data name="&gt;&gt;AtkParent2TextBox.Name" xml:space="preserve">
+    <value>AtkParent2TextBox</value>
+  </data>
+  <data name="&gt;&gt;AtkParent2TextBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;AtkParent2TextBox.Parent" xml:space="preserve">
+    <value>tableLayoutPanel4</value>
+  </data>
+  <data name="&gt;&gt;AtkParent2TextBox.ZOrder" xml:space="preserve">
     <value>4</value>
   </data>
   <data name="label15.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
@@ -967,7 +1066,7 @@
     <value>NoControl</value>
   </data>
   <data name="label15.Location" type="System.Drawing.Point, System.Drawing">
-    <value>14, 8</value>
+    <value>13, 8</value>
   </data>
   <data name="label15.Size" type="System.Drawing.Size, System.Drawing">
     <value>62, 24</value>
@@ -1003,7 +1102,7 @@
     <value>NoControl</value>
   </data>
   <data name="label16.Location" type="System.Drawing.Point, System.Drawing">
-    <value>13, 48</value>
+    <value>12, 48</value>
   </data>
   <data name="label16.Size" type="System.Drawing.Size, System.Drawing">
     <value>63, 24</value>
@@ -1039,7 +1138,7 @@
     <value>NoControl</value>
   </data>
   <data name="label17.Location" type="System.Drawing.Point, System.Drawing">
-    <value>11, 88</value>
+    <value>10, 88</value>
   </data>
   <data name="label17.Size" type="System.Drawing.Size, System.Drawing">
     <value>65, 24</value>
@@ -1075,10 +1174,10 @@
     <value>NoControl</value>
   </data>
   <data name="label18.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 128</value>
+    <value>14, 120</value>
   </data>
   <data name="label18.Size" type="System.Drawing.Size, System.Drawing">
-    <value>73, 24</value>
+    <value>61, 40</value>
   </data>
   <data name="label18.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
@@ -1111,10 +1210,10 @@
     <value>NoControl</value>
   </data>
   <data name="label19.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 168</value>
+    <value>14, 160</value>
   </data>
   <data name="label19.Size" type="System.Drawing.Size, System.Drawing">
-    <value>73, 24</value>
+    <value>61, 40</value>
   </data>
   <data name="label19.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
@@ -1147,7 +1246,7 @@
     <value>NoControl</value>
   </data>
   <data name="label20.Location" type="System.Drawing.Point, System.Drawing">
-    <value>5, 209</value>
+    <value>4, 209</value>
   </data>
   <data name="label20.Size" type="System.Drawing.Size, System.Drawing">
     <value>71, 24</value>
@@ -1183,7 +1282,7 @@
     <value>NoControl</value>
   </data>
   <data name="label21.Location" type="System.Drawing.Point, System.Drawing">
-    <value>134, 8</value>
+    <value>133, 8</value>
   </data>
   <data name="label21.Size" type="System.Drawing.Size, System.Drawing">
     <value>39, 24</value>
@@ -1219,7 +1318,7 @@
     <value>NoControl</value>
   </data>
   <data name="label22.Location" type="System.Drawing.Point, System.Drawing">
-    <value>134, 48</value>
+    <value>133, 48</value>
   </data>
   <data name="label22.Size" type="System.Drawing.Size, System.Drawing">
     <value>39, 24</value>
@@ -1255,7 +1354,7 @@
     <value>NoControl</value>
   </data>
   <data name="label23.Location" type="System.Drawing.Point, System.Drawing">
-    <value>134, 88</value>
+    <value>133, 88</value>
   </data>
   <data name="label23.Size" type="System.Drawing.Size, System.Drawing">
     <value>39, 24</value>
@@ -1291,7 +1390,7 @@
     <value>NoControl</value>
   </data>
   <data name="label24.Location" type="System.Drawing.Point, System.Drawing">
-    <value>134, 128</value>
+    <value>133, 128</value>
   </data>
   <data name="label24.Size" type="System.Drawing.Size, System.Drawing">
     <value>39, 24</value>
@@ -1327,7 +1426,7 @@
     <value>NoControl</value>
   </data>
   <data name="label25.Location" type="System.Drawing.Point, System.Drawing">
-    <value>134, 168</value>
+    <value>133, 168</value>
   </data>
   <data name="label25.Size" type="System.Drawing.Size, System.Drawing">
     <value>39, 24</value>
@@ -1363,7 +1462,7 @@
     <value>NoControl</value>
   </data>
   <data name="label26.Location" type="System.Drawing.Point, System.Drawing">
-    <value>134, 209</value>
+    <value>133, 209</value>
   </data>
   <data name="label26.Size" type="System.Drawing.Size, System.Drawing">
     <value>39, 24</value>
@@ -1386,28 +1485,37 @@
   <data name="&gt;&gt;label26.ZOrder" xml:space="preserve">
     <value>16</value>
   </data>
-  <data name="textBox12.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+  <data name="HPParent2TextBox.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Left, Right</value>
   </data>
-  <data name="textBox12.Location" type="System.Drawing.Point, System.Drawing">
-    <value>82, 10</value>
+  <data name="HPParent2TextBox.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12pt, style=Bold</value>
   </data>
-  <data name="textBox12.Size" type="System.Drawing.Size, System.Drawing">
-    <value>46, 20</value>
+  <data name="HPParent2TextBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>81, 7</value>
   </data>
-  <data name="textBox12.TabIndex" type="System.Int32, mscorlib">
+  <data name="HPParent2TextBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>46, 26</value>
+  </data>
+  <data name="HPParent2TextBox.TabIndex" type="System.Int32, mscorlib">
     <value>12</value>
   </data>
-  <data name="&gt;&gt;textBox12.Name" xml:space="preserve">
-    <value>textBox12</value>
+  <data name="HPParent2TextBox.Text" xml:space="preserve">
+    <value>31</value>
   </data>
-  <data name="&gt;&gt;textBox12.Type" xml:space="preserve">
+  <data name="HPParent2TextBox.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Center</value>
+  </data>
+  <data name="&gt;&gt;HPParent2TextBox.Name" xml:space="preserve">
+    <value>HPParent2TextBox</value>
+  </data>
+  <data name="&gt;&gt;HPParent2TextBox.Type" xml:space="preserve">
     <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;textBox12.Parent" xml:space="preserve">
+  <data name="&gt;&gt;HPParent2TextBox.Parent" xml:space="preserve">
     <value>tableLayoutPanel4</value>
   </data>
-  <data name="&gt;&gt;textBox12.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;HPParent2TextBox.ZOrder" xml:space="preserve">
     <value>17</value>
   </data>
   <data name="tableLayoutPanel4.Location" type="System.Drawing.Point, System.Drawing">
@@ -1435,7 +1543,7 @@
     <value>1</value>
   </data>
   <data name="tableLayoutPanel4.LayoutSettings" type="System.Windows.Forms.TableLayoutSettings, System.Windows.Forms">
-    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="textBox7" Row="5" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="textBox8" Row="4" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="textBox9" Row="3" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="textBox10" Row="2" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="textBox11" Row="1" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="label15" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label16" Row="1" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label17" Row="2" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label18" Row="3" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label19" Row="4" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label20" Row="5" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label21" Row="0" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="label22" Row="1" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="label23" Row="2" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="label24" Row="3" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="label25" Row="4" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="label26" Row="5" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="textBox12" Row="0" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,60,Percent,40,Absolute,81" /&gt;&lt;Rows Styles="Percent,16,66666,Percent,16,66666,Percent,16,66666,Percent,16,66666,Percent,16,66666,Percent,16,66666" /&gt;&lt;/TableLayoutSettings&gt;</value>
+    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="SpeParent2TextBox" Row="5" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="SpDParent2TextBox" Row="4" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="SpAParent2TextBox" Row="3" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="DefParent2TextBox" Row="2" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="AtkParent2TextBox" Row="1" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="label15" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label16" Row="1" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label17" Row="2" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label18" Row="3" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label19" Row="4" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label20" Row="5" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label21" Row="0" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="label22" Row="1" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="label23" Row="2" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="label24" Row="3" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="label25" Row="4" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="label26" Row="5" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="HPParent2TextBox" Row="0" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,60,Percent,40,Absolute,83" /&gt;&lt;Rows Styles="Percent,16,66666,Percent,16,66666,Percent,16,66666,Percent,16,66666,Percent,16,66666,Percent,16,66666" /&gt;&lt;/TableLayoutSettings&gt;</value>
   </data>
   <data name="tableLayoutPanel3.Location" type="System.Drawing.Point, System.Drawing">
     <value>306, 49</value>
@@ -1507,126 +1615,171 @@
     <value>0</value>
   </data>
   <data name="tableLayoutPanel6.ColumnCount" type="System.Int32, mscorlib">
-    <value>3</value>
+    <value>4</value>
   </data>
-  <data name="textBox13.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Left, Right</value>
+  <data name="greaterSpeButton.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Bottom, Left, Right</value>
   </data>
-  <data name="textBox13.Location" type="System.Drawing.Point, System.Drawing">
-    <value>82, 211</value>
+  <data name="greaterSpeButton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 15.75pt, style=Bold</value>
   </data>
-  <data name="textBox13.Size" type="System.Drawing.Size, System.Drawing">
-    <value>46, 20</value>
+  <data name="greaterSpeButton.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
   </data>
-  <data name="textBox13.TabIndex" type="System.Int32, mscorlib">
-    <value>17</value>
+  <data name="greaterSpeButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>60, 203</value>
   </data>
-  <data name="&gt;&gt;textBox13.Name" xml:space="preserve">
-    <value>textBox13</value>
+  <data name="greaterSpeButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>42, 36</value>
   </data>
-  <data name="&gt;&gt;textBox13.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="greaterSpeButton.TabIndex" type="System.Int32, mscorlib">
+    <value>23</value>
   </data>
-  <data name="&gt;&gt;textBox13.Parent" xml:space="preserve">
+  <data name="greaterSpeButton.Text" xml:space="preserve">
+    <value>≥</value>
+  </data>
+  <data name="&gt;&gt;greaterSpeButton.Name" xml:space="preserve">
+    <value>greaterSpeButton</value>
+  </data>
+  <data name="&gt;&gt;greaterSpeButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;greaterSpeButton.Parent" xml:space="preserve">
     <value>tableLayoutPanel6</value>
   </data>
-  <data name="&gt;&gt;textBox13.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;greaterSpeButton.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
-  <data name="textBox14.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Left, Right</value>
+  <data name="greaterSpDButton.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Bottom, Left, Right</value>
   </data>
-  <data name="textBox14.Location" type="System.Drawing.Point, System.Drawing">
-    <value>82, 170</value>
+  <data name="greaterSpDButton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 15.75pt, style=Bold</value>
   </data>
-  <data name="textBox14.Size" type="System.Drawing.Size, System.Drawing">
-    <value>46, 20</value>
+  <data name="greaterSpDButton.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
   </data>
-  <data name="textBox14.TabIndex" type="System.Int32, mscorlib">
-    <value>16</value>
+  <data name="greaterSpDButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>60, 163</value>
   </data>
-  <data name="&gt;&gt;textBox14.Name" xml:space="preserve">
-    <value>textBox14</value>
+  <data name="greaterSpDButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>42, 34</value>
   </data>
-  <data name="&gt;&gt;textBox14.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="greaterSpDButton.TabIndex" type="System.Int32, mscorlib">
+    <value>22</value>
   </data>
-  <data name="&gt;&gt;textBox14.Parent" xml:space="preserve">
+  <data name="greaterSpDButton.Text" xml:space="preserve">
+    <value>≥</value>
+  </data>
+  <data name="&gt;&gt;greaterSpDButton.Name" xml:space="preserve">
+    <value>greaterSpDButton</value>
+  </data>
+  <data name="&gt;&gt;greaterSpDButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;greaterSpDButton.Parent" xml:space="preserve">
     <value>tableLayoutPanel6</value>
   </data>
-  <data name="&gt;&gt;textBox14.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;greaterSpDButton.ZOrder" xml:space="preserve">
     <value>1</value>
   </data>
-  <data name="textBox15.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Left, Right</value>
+  <data name="greaterSpAButton.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Bottom, Left, Right</value>
   </data>
-  <data name="textBox15.Location" type="System.Drawing.Point, System.Drawing">
-    <value>82, 130</value>
+  <data name="greaterSpAButton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 15.75pt, style=Bold</value>
   </data>
-  <data name="textBox15.Size" type="System.Drawing.Size, System.Drawing">
-    <value>46, 20</value>
+  <data name="greaterSpAButton.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
   </data>
-  <data name="textBox15.TabIndex" type="System.Int32, mscorlib">
-    <value>15</value>
+  <data name="greaterSpAButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>60, 123</value>
   </data>
-  <data name="&gt;&gt;textBox15.Name" xml:space="preserve">
-    <value>textBox15</value>
+  <data name="greaterSpAButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>42, 34</value>
   </data>
-  <data name="&gt;&gt;textBox15.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="greaterSpAButton.TabIndex" type="System.Int32, mscorlib">
+    <value>21</value>
   </data>
-  <data name="&gt;&gt;textBox15.Parent" xml:space="preserve">
+  <data name="greaterSpAButton.Text" xml:space="preserve">
+    <value>≥</value>
+  </data>
+  <data name="&gt;&gt;greaterSpAButton.Name" xml:space="preserve">
+    <value>greaterSpAButton</value>
+  </data>
+  <data name="&gt;&gt;greaterSpAButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;greaterSpAButton.Parent" xml:space="preserve">
     <value>tableLayoutPanel6</value>
   </data>
-  <data name="&gt;&gt;textBox15.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;greaterSpAButton.ZOrder" xml:space="preserve">
     <value>2</value>
   </data>
-  <data name="textBox16.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Left, Right</value>
+  <data name="greaterDefButton.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Bottom, Left, Right</value>
   </data>
-  <data name="textBox16.Location" type="System.Drawing.Point, System.Drawing">
-    <value>82, 90</value>
+  <data name="greaterDefButton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 15.75pt, style=Bold</value>
   </data>
-  <data name="textBox16.Size" type="System.Drawing.Size, System.Drawing">
-    <value>46, 20</value>
+  <data name="greaterDefButton.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
   </data>
-  <data name="textBox16.TabIndex" type="System.Int32, mscorlib">
-    <value>14</value>
+  <data name="greaterDefButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>60, 83</value>
   </data>
-  <data name="&gt;&gt;textBox16.Name" xml:space="preserve">
-    <value>textBox16</value>
+  <data name="greaterDefButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>42, 34</value>
   </data>
-  <data name="&gt;&gt;textBox16.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="greaterDefButton.TabIndex" type="System.Int32, mscorlib">
+    <value>20</value>
   </data>
-  <data name="&gt;&gt;textBox16.Parent" xml:space="preserve">
+  <data name="greaterDefButton.Text" xml:space="preserve">
+    <value>≥</value>
+  </data>
+  <data name="&gt;&gt;greaterDefButton.Name" xml:space="preserve">
+    <value>greaterDefButton</value>
+  </data>
+  <data name="&gt;&gt;greaterDefButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;greaterDefButton.Parent" xml:space="preserve">
     <value>tableLayoutPanel6</value>
   </data>
-  <data name="&gt;&gt;textBox16.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;greaterDefButton.ZOrder" xml:space="preserve">
     <value>3</value>
   </data>
-  <data name="textBox17.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Left, Right</value>
+  <data name="greaterAtkButton.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Bottom, Left, Right</value>
   </data>
-  <data name="textBox17.Location" type="System.Drawing.Point, System.Drawing">
-    <value>82, 50</value>
+  <data name="greaterAtkButton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 15.75pt, style=Bold</value>
   </data>
-  <data name="textBox17.Size" type="System.Drawing.Size, System.Drawing">
-    <value>46, 20</value>
+  <data name="greaterAtkButton.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
   </data>
-  <data name="textBox17.TabIndex" type="System.Int32, mscorlib">
-    <value>13</value>
+  <data name="greaterAtkButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>60, 43</value>
   </data>
-  <data name="&gt;&gt;textBox17.Name" xml:space="preserve">
-    <value>textBox17</value>
+  <data name="greaterAtkButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>42, 34</value>
   </data>
-  <data name="&gt;&gt;textBox17.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="greaterAtkButton.TabIndex" type="System.Int32, mscorlib">
+    <value>19</value>
   </data>
-  <data name="&gt;&gt;textBox17.Parent" xml:space="preserve">
+  <data name="greaterAtkButton.Text" xml:space="preserve">
+    <value>≥</value>
+  </data>
+  <data name="&gt;&gt;greaterAtkButton.Name" xml:space="preserve">
+    <value>greaterAtkButton</value>
+  </data>
+  <data name="&gt;&gt;greaterAtkButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;greaterAtkButton.Parent" xml:space="preserve">
     <value>tableLayoutPanel6</value>
   </data>
-  <data name="&gt;&gt;textBox17.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;greaterAtkButton.ZOrder" xml:space="preserve">
     <value>4</value>
   </data>
   <data name="label28.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
@@ -1642,16 +1795,16 @@
     <value>NoControl</value>
   </data>
   <data name="label28.Location" type="System.Drawing.Point, System.Drawing">
-    <value>14, 8</value>
+    <value>16, 8</value>
   </data>
   <data name="label28.Size" type="System.Drawing.Size, System.Drawing">
-    <value>62, 24</value>
+    <value>38, 24</value>
   </data>
   <data name="label28.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
   </data>
   <data name="label28.Text" xml:space="preserve">
-    <value>HP  =</value>
+    <value>HP</value>
   </data>
   <data name="&gt;&gt;label28.Name" xml:space="preserve">
     <value>label28</value>
@@ -1678,16 +1831,16 @@
     <value>NoControl</value>
   </data>
   <data name="label29.Location" type="System.Drawing.Point, System.Drawing">
-    <value>13, 48</value>
+    <value>15, 48</value>
   </data>
   <data name="label29.Size" type="System.Drawing.Size, System.Drawing">
-    <value>63, 24</value>
+    <value>39, 24</value>
   </data>
   <data name="label29.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
   </data>
   <data name="label29.Text" xml:space="preserve">
-    <value>Atk  =</value>
+    <value>Atk</value>
   </data>
   <data name="&gt;&gt;label29.Name" xml:space="preserve">
     <value>label29</value>
@@ -1714,16 +1867,16 @@
     <value>NoControl</value>
   </data>
   <data name="label30.Location" type="System.Drawing.Point, System.Drawing">
-    <value>11, 88</value>
+    <value>13, 88</value>
   </data>
   <data name="label30.Size" type="System.Drawing.Size, System.Drawing">
-    <value>65, 24</value>
+    <value>41, 24</value>
   </data>
   <data name="label30.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
   </data>
   <data name="label30.Text" xml:space="preserve">
-    <value>Def  =</value>
+    <value>Def</value>
   </data>
   <data name="&gt;&gt;label30.Name" xml:space="preserve">
     <value>label30</value>
@@ -1750,16 +1903,16 @@
     <value>NoControl</value>
   </data>
   <data name="label31.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 128</value>
+    <value>5, 128</value>
   </data>
   <data name="label31.Size" type="System.Drawing.Size, System.Drawing">
-    <value>73, 24</value>
+    <value>49, 24</value>
   </data>
   <data name="label31.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
   </data>
   <data name="label31.Text" xml:space="preserve">
-    <value>SpA  =</value>
+    <value>SpA</value>
   </data>
   <data name="&gt;&gt;label31.Name" xml:space="preserve">
     <value>label31</value>
@@ -1786,16 +1939,16 @@
     <value>NoControl</value>
   </data>
   <data name="label32.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 168</value>
+    <value>5, 168</value>
   </data>
   <data name="label32.Size" type="System.Drawing.Size, System.Drawing">
-    <value>73, 24</value>
+    <value>49, 24</value>
   </data>
   <data name="label32.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
   </data>
   <data name="label32.Text" xml:space="preserve">
-    <value>SpD  =</value>
+    <value>SpD</value>
   </data>
   <data name="&gt;&gt;label32.Name" xml:space="preserve">
     <value>label32</value>
@@ -1822,16 +1975,16 @@
     <value>NoControl</value>
   </data>
   <data name="label33.Location" type="System.Drawing.Point, System.Drawing">
-    <value>5, 209</value>
+    <value>7, 209</value>
   </data>
   <data name="label33.Size" type="System.Drawing.Size, System.Drawing">
-    <value>71, 24</value>
+    <value>47, 24</value>
   </data>
   <data name="label33.TabIndex" type="System.Int32, mscorlib">
     <value>5</value>
   </data>
   <data name="label33.Text" xml:space="preserve">
-    <value>Spe  =</value>
+    <value>Spe</value>
   </data>
   <data name="&gt;&gt;label33.Name" xml:space="preserve">
     <value>label33</value>
@@ -1858,7 +2011,7 @@
     <value>NoControl</value>
   </data>
   <data name="label34.Location" type="System.Drawing.Point, System.Drawing">
-    <value>134, 8</value>
+    <value>154, 8</value>
   </data>
   <data name="label34.Size" type="System.Drawing.Size, System.Drawing">
     <value>39, 24</value>
@@ -1894,7 +2047,7 @@
     <value>NoControl</value>
   </data>
   <data name="label35.Location" type="System.Drawing.Point, System.Drawing">
-    <value>134, 48</value>
+    <value>154, 48</value>
   </data>
   <data name="label35.Size" type="System.Drawing.Size, System.Drawing">
     <value>39, 24</value>
@@ -1930,7 +2083,7 @@
     <value>NoControl</value>
   </data>
   <data name="label36.Location" type="System.Drawing.Point, System.Drawing">
-    <value>134, 88</value>
+    <value>154, 88</value>
   </data>
   <data name="label36.Size" type="System.Drawing.Size, System.Drawing">
     <value>39, 24</value>
@@ -1966,7 +2119,7 @@
     <value>NoControl</value>
   </data>
   <data name="label37.Location" type="System.Drawing.Point, System.Drawing">
-    <value>134, 128</value>
+    <value>154, 128</value>
   </data>
   <data name="label37.Size" type="System.Drawing.Size, System.Drawing">
     <value>39, 24</value>
@@ -2002,7 +2155,7 @@
     <value>NoControl</value>
   </data>
   <data name="label38.Location" type="System.Drawing.Point, System.Drawing">
-    <value>134, 168</value>
+    <value>154, 168</value>
   </data>
   <data name="label38.Size" type="System.Drawing.Size, System.Drawing">
     <value>39, 24</value>
@@ -2038,7 +2191,7 @@
     <value>NoControl</value>
   </data>
   <data name="label39.Location" type="System.Drawing.Point, System.Drawing">
-    <value>134, 209</value>
+    <value>154, 209</value>
   </data>
   <data name="label39.Size" type="System.Drawing.Size, System.Drawing">
     <value>39, 24</value>
@@ -2061,29 +2214,233 @@
   <data name="&gt;&gt;label39.ZOrder" xml:space="preserve">
     <value>16</value>
   </data>
-  <data name="textBox18.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+  <data name="HPDesiredTextBox.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Left, Right</value>
   </data>
-  <data name="textBox18.Location" type="System.Drawing.Point, System.Drawing">
-    <value>82, 10</value>
+  <data name="HPDesiredTextBox.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12pt, style=Bold</value>
   </data>
-  <data name="textBox18.Size" type="System.Drawing.Size, System.Drawing">
-    <value>46, 20</value>
+  <data name="HPDesiredTextBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>108, 7</value>
   </data>
-  <data name="textBox18.TabIndex" type="System.Int32, mscorlib">
-    <value>12</value>
+  <data name="HPDesiredTextBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>40, 26</value>
   </data>
-  <data name="&gt;&gt;textBox18.Name" xml:space="preserve">
-    <value>textBox18</value>
+  <data name="HPDesiredTextBox.TabIndex" type="System.Int32, mscorlib">
+    <value>24</value>
   </data>
-  <data name="&gt;&gt;textBox18.Type" xml:space="preserve">
+  <data name="HPDesiredTextBox.Text" xml:space="preserve">
+    <value>31</value>
+  </data>
+  <data name="HPDesiredTextBox.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Center</value>
+  </data>
+  <data name="&gt;&gt;HPDesiredTextBox.Name" xml:space="preserve">
+    <value>HPDesiredTextBox</value>
+  </data>
+  <data name="&gt;&gt;HPDesiredTextBox.Type" xml:space="preserve">
     <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;textBox18.Parent" xml:space="preserve">
+  <data name="&gt;&gt;HPDesiredTextBox.Parent" xml:space="preserve">
     <value>tableLayoutPanel6</value>
   </data>
-  <data name="&gt;&gt;textBox18.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;HPDesiredTextBox.ZOrder" xml:space="preserve">
     <value>17</value>
+  </data>
+  <data name="AtkDesiredTextBox.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Left, Right</value>
+  </data>
+  <data name="AtkDesiredTextBox.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12pt, style=Bold</value>
+  </data>
+  <data name="AtkDesiredTextBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>108, 47</value>
+  </data>
+  <data name="AtkDesiredTextBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>40, 26</value>
+  </data>
+  <data name="AtkDesiredTextBox.TabIndex" type="System.Int32, mscorlib">
+    <value>25</value>
+  </data>
+  <data name="AtkDesiredTextBox.Text" xml:space="preserve">
+    <value>31</value>
+  </data>
+  <data name="AtkDesiredTextBox.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Center</value>
+  </data>
+  <data name="&gt;&gt;AtkDesiredTextBox.Name" xml:space="preserve">
+    <value>AtkDesiredTextBox</value>
+  </data>
+  <data name="&gt;&gt;AtkDesiredTextBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;AtkDesiredTextBox.Parent" xml:space="preserve">
+    <value>tableLayoutPanel6</value>
+  </data>
+  <data name="&gt;&gt;AtkDesiredTextBox.ZOrder" xml:space="preserve">
+    <value>18</value>
+  </data>
+  <data name="DefDesiredTextBox.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Left, Right</value>
+  </data>
+  <data name="DefDesiredTextBox.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12pt, style=Bold</value>
+  </data>
+  <data name="DefDesiredTextBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>108, 87</value>
+  </data>
+  <data name="DefDesiredTextBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>40, 26</value>
+  </data>
+  <data name="DefDesiredTextBox.TabIndex" type="System.Int32, mscorlib">
+    <value>26</value>
+  </data>
+  <data name="DefDesiredTextBox.Text" xml:space="preserve">
+    <value>31</value>
+  </data>
+  <data name="DefDesiredTextBox.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Center</value>
+  </data>
+  <data name="&gt;&gt;DefDesiredTextBox.Name" xml:space="preserve">
+    <value>DefDesiredTextBox</value>
+  </data>
+  <data name="&gt;&gt;DefDesiredTextBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;DefDesiredTextBox.Parent" xml:space="preserve">
+    <value>tableLayoutPanel6</value>
+  </data>
+  <data name="&gt;&gt;DefDesiredTextBox.ZOrder" xml:space="preserve">
+    <value>19</value>
+  </data>
+  <data name="SpADesiredTextBox.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Left, Right</value>
+  </data>
+  <data name="SpADesiredTextBox.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12pt, style=Bold</value>
+  </data>
+  <data name="SpADesiredTextBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>108, 127</value>
+  </data>
+  <data name="SpADesiredTextBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>40, 26</value>
+  </data>
+  <data name="SpADesiredTextBox.TabIndex" type="System.Int32, mscorlib">
+    <value>27</value>
+  </data>
+  <data name="SpADesiredTextBox.Text" xml:space="preserve">
+    <value>31</value>
+  </data>
+  <data name="SpADesiredTextBox.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Center</value>
+  </data>
+  <data name="&gt;&gt;SpADesiredTextBox.Name" xml:space="preserve">
+    <value>SpADesiredTextBox</value>
+  </data>
+  <data name="&gt;&gt;SpADesiredTextBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;SpADesiredTextBox.Parent" xml:space="preserve">
+    <value>tableLayoutPanel6</value>
+  </data>
+  <data name="&gt;&gt;SpADesiredTextBox.ZOrder" xml:space="preserve">
+    <value>20</value>
+  </data>
+  <data name="SpDDesiredTextBox.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Left, Right</value>
+  </data>
+  <data name="SpDDesiredTextBox.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12pt, style=Bold</value>
+  </data>
+  <data name="SpDDesiredTextBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>108, 167</value>
+  </data>
+  <data name="SpDDesiredTextBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>40, 26</value>
+  </data>
+  <data name="SpDDesiredTextBox.TabIndex" type="System.Int32, mscorlib">
+    <value>28</value>
+  </data>
+  <data name="SpDDesiredTextBox.Text" xml:space="preserve">
+    <value>31</value>
+  </data>
+  <data name="SpDDesiredTextBox.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Center</value>
+  </data>
+  <data name="&gt;&gt;SpDDesiredTextBox.Name" xml:space="preserve">
+    <value>SpDDesiredTextBox</value>
+  </data>
+  <data name="&gt;&gt;SpDDesiredTextBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;SpDDesiredTextBox.Parent" xml:space="preserve">
+    <value>tableLayoutPanel6</value>
+  </data>
+  <data name="&gt;&gt;SpDDesiredTextBox.ZOrder" xml:space="preserve">
+    <value>21</value>
+  </data>
+  <data name="SpeDesiredTextBox.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Left, Right</value>
+  </data>
+  <data name="SpeDesiredTextBox.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12pt, style=Bold</value>
+  </data>
+  <data name="SpeDesiredTextBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>108, 208</value>
+  </data>
+  <data name="SpeDesiredTextBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>40, 26</value>
+  </data>
+  <data name="SpeDesiredTextBox.TabIndex" type="System.Int32, mscorlib">
+    <value>29</value>
+  </data>
+  <data name="SpeDesiredTextBox.Text" xml:space="preserve">
+    <value>31</value>
+  </data>
+  <data name="SpeDesiredTextBox.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Center</value>
+  </data>
+  <data name="&gt;&gt;SpeDesiredTextBox.Name" xml:space="preserve">
+    <value>SpeDesiredTextBox</value>
+  </data>
+  <data name="&gt;&gt;SpeDesiredTextBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;SpeDesiredTextBox.Parent" xml:space="preserve">
+    <value>tableLayoutPanel6</value>
+  </data>
+  <data name="&gt;&gt;SpeDesiredTextBox.ZOrder" xml:space="preserve">
+    <value>22</value>
+  </data>
+  <data name="greaterHPButton.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Bottom, Left, Right</value>
+  </data>
+  <data name="greaterHPButton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 15.75pt, style=Bold</value>
+  </data>
+  <data name="greaterHPButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>60, 3</value>
+  </data>
+  <data name="greaterHPButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>42, 34</value>
+  </data>
+  <data name="greaterHPButton.TabIndex" type="System.Int32, mscorlib">
+    <value>18</value>
+  </data>
+  <data name="greaterHPButton.Text" xml:space="preserve">
+    <value>≥</value>
+  </data>
+  <data name="&gt;&gt;greaterHPButton.Name" xml:space="preserve">
+    <value>greaterHPButton</value>
+  </data>
+  <data name="&gt;&gt;greaterHPButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;greaterHPButton.Parent" xml:space="preserve">
+    <value>tableLayoutPanel6</value>
+  </data>
+  <data name="&gt;&gt;greaterHPButton.ZOrder" xml:space="preserve">
+    <value>23</value>
   </data>
   <data name="tableLayoutPanel6.Location" type="System.Drawing.Point, System.Drawing">
     <value>3, 30</value>
@@ -2110,7 +2467,7 @@
     <value>1</value>
   </data>
   <data name="tableLayoutPanel6.LayoutSettings" type="System.Windows.Forms.TableLayoutSettings, System.Windows.Forms">
-    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="textBox13" Row="5" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="textBox14" Row="4" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="textBox15" Row="3" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="textBox16" Row="2" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="textBox17" Row="1" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="label28" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label29" Row="1" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label30" Row="2" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label31" Row="3" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label32" Row="4" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label33" Row="5" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label34" Row="0" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="label35" Row="1" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="label36" Row="2" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="label37" Row="3" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="label38" Row="4" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="label39" Row="5" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="textBox18" Row="0" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,60,Percent,40,Absolute,81" /&gt;&lt;Rows Styles="Percent,16,66666,Percent,16,66666,Percent,16,66666,Percent,16,66666,Percent,16,66666,Percent,16,66666" /&gt;&lt;/TableLayoutSettings&gt;</value>
+    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="greaterSpeButton" Row="5" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="greaterSpDButton" Row="4" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="greaterSpAButton" Row="3" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="greaterDefButton" Row="2" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="greaterAtkButton" Row="1" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="label28" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label29" Row="1" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label30" Row="2" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label31" Row="3" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label32" Row="4" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label33" Row="5" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label34" Row="0" RowSpan="1" Column="3" ColumnSpan="1" /&gt;&lt;Control Name="label35" Row="1" RowSpan="1" Column="3" ColumnSpan="1" /&gt;&lt;Control Name="label36" Row="2" RowSpan="1" Column="3" ColumnSpan="1" /&gt;&lt;Control Name="label37" Row="3" RowSpan="1" Column="3" ColumnSpan="1" /&gt;&lt;Control Name="label38" Row="4" RowSpan="1" Column="3" ColumnSpan="1" /&gt;&lt;Control Name="label39" Row="5" RowSpan="1" Column="3" ColumnSpan="1" /&gt;&lt;Control Name="HPDesiredTextBox" Row="0" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="AtkDesiredTextBox" Row="1" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="DefDesiredTextBox" Row="2" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="SpADesiredTextBox" Row="3" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="SpDDesiredTextBox" Row="4" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="SpeDesiredTextBox" Row="5" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="greaterHPButton" Row="0" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,54,54546,Percent,45,45454,Absolute,46,Absolute,61" /&gt;&lt;Rows Styles="Percent,16,66666,Percent,16,66666,Percent,16,66666,Percent,16,66666,Percent,16,66666,Percent,16,66666" /&gt;&lt;/TableLayoutSettings&gt;</value>
   </data>
   <data name="tableLayoutPanel5.Location" type="System.Drawing.Point, System.Drawing">
     <value>44, 369</value>

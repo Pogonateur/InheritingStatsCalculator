@@ -32,6 +32,11 @@
             this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
             this.label1 = new System.Windows.Forms.Label();
             this.tableLayoutPanel2 = new System.Windows.Forms.TableLayoutPanel();
+            this.SpeParent1TextBox = new System.Windows.Forms.TextBox();
+            this.SpDParent1TextBox = new System.Windows.Forms.TextBox();
+            this.SpAParent1TextBox = new System.Windows.Forms.TextBox();
+            this.DefParent1TextBox = new System.Windows.Forms.TextBox();
+            this.AtkParent1TextBox = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
@@ -44,20 +49,15 @@
             this.label11 = new System.Windows.Forms.Label();
             this.label12 = new System.Windows.Forms.Label();
             this.label13 = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
-            this.textBox3 = new System.Windows.Forms.TextBox();
-            this.textBox4 = new System.Windows.Forms.TextBox();
-            this.textBox5 = new System.Windows.Forms.TextBox();
-            this.textBox6 = new System.Windows.Forms.TextBox();
+            this.HPParent1TextBox = new System.Windows.Forms.TextBox();
             this.tableLayoutPanel3 = new System.Windows.Forms.TableLayoutPanel();
             this.label14 = new System.Windows.Forms.Label();
             this.tableLayoutPanel4 = new System.Windows.Forms.TableLayoutPanel();
-            this.textBox7 = new System.Windows.Forms.TextBox();
-            this.textBox8 = new System.Windows.Forms.TextBox();
-            this.textBox9 = new System.Windows.Forms.TextBox();
-            this.textBox10 = new System.Windows.Forms.TextBox();
-            this.textBox11 = new System.Windows.Forms.TextBox();
+            this.SpeParent2TextBox = new System.Windows.Forms.TextBox();
+            this.SpDParent2TextBox = new System.Windows.Forms.TextBox();
+            this.SpAParent2TextBox = new System.Windows.Forms.TextBox();
+            this.DefParent2TextBox = new System.Windows.Forms.TextBox();
+            this.AtkParent2TextBox = new System.Windows.Forms.TextBox();
             this.label15 = new System.Windows.Forms.Label();
             this.label16 = new System.Windows.Forms.Label();
             this.label17 = new System.Windows.Forms.Label();
@@ -70,15 +70,15 @@
             this.label24 = new System.Windows.Forms.Label();
             this.label25 = new System.Windows.Forms.Label();
             this.label26 = new System.Windows.Forms.Label();
-            this.textBox12 = new System.Windows.Forms.TextBox();
+            this.HPParent2TextBox = new System.Windows.Forms.TextBox();
             this.tableLayoutPanel5 = new System.Windows.Forms.TableLayoutPanel();
             this.label27 = new System.Windows.Forms.Label();
             this.tableLayoutPanel6 = new System.Windows.Forms.TableLayoutPanel();
-            this.textBox13 = new System.Windows.Forms.TextBox();
-            this.textBox14 = new System.Windows.Forms.TextBox();
-            this.textBox15 = new System.Windows.Forms.TextBox();
-            this.textBox16 = new System.Windows.Forms.TextBox();
-            this.textBox17 = new System.Windows.Forms.TextBox();
+            this.greaterSpeButton = new System.Windows.Forms.Button();
+            this.greaterSpDButton = new System.Windows.Forms.Button();
+            this.greaterSpAButton = new System.Windows.Forms.Button();
+            this.greaterDefButton = new System.Windows.Forms.Button();
+            this.greaterAtkButton = new System.Windows.Forms.Button();
             this.label28 = new System.Windows.Forms.Label();
             this.label29 = new System.Windows.Forms.Label();
             this.label30 = new System.Windows.Forms.Label();
@@ -91,7 +91,13 @@
             this.label37 = new System.Windows.Forms.Label();
             this.label38 = new System.Windows.Forms.Label();
             this.label39 = new System.Windows.Forms.Label();
-            this.textBox18 = new System.Windows.Forms.TextBox();
+            this.HPDesiredTextBox = new System.Windows.Forms.TextBox();
+            this.AtkDesiredTextBox = new System.Windows.Forms.TextBox();
+            this.DefDesiredTextBox = new System.Windows.Forms.TextBox();
+            this.SpADesiredTextBox = new System.Windows.Forms.TextBox();
+            this.SpDDesiredTextBox = new System.Windows.Forms.TextBox();
+            this.SpeDesiredTextBox = new System.Windows.Forms.TextBox();
+            this.greaterHPButton = new System.Windows.Forms.Button();
             this.tableLayoutPanel1.SuspendLayout();
             this.tableLayoutPanel2.SuspendLayout();
             this.tableLayoutPanel3.SuspendLayout();
@@ -116,11 +122,11 @@
             // tableLayoutPanel2
             // 
             resources.ApplyResources(this.tableLayoutPanel2, "tableLayoutPanel2");
-            this.tableLayoutPanel2.Controls.Add(this.textBox6, 1, 5);
-            this.tableLayoutPanel2.Controls.Add(this.textBox5, 1, 4);
-            this.tableLayoutPanel2.Controls.Add(this.textBox4, 1, 3);
-            this.tableLayoutPanel2.Controls.Add(this.textBox3, 1, 2);
-            this.tableLayoutPanel2.Controls.Add(this.textBox2, 1, 1);
+            this.tableLayoutPanel2.Controls.Add(this.SpeParent1TextBox, 1, 5);
+            this.tableLayoutPanel2.Controls.Add(this.SpDParent1TextBox, 1, 4);
+            this.tableLayoutPanel2.Controls.Add(this.SpAParent1TextBox, 1, 3);
+            this.tableLayoutPanel2.Controls.Add(this.DefParent1TextBox, 1, 2);
+            this.tableLayoutPanel2.Controls.Add(this.AtkParent1TextBox, 1, 1);
             this.tableLayoutPanel2.Controls.Add(this.label2, 0, 0);
             this.tableLayoutPanel2.Controls.Add(this.label3, 0, 1);
             this.tableLayoutPanel2.Controls.Add(this.label4, 0, 2);
@@ -133,8 +139,33 @@
             this.tableLayoutPanel2.Controls.Add(this.label11, 2, 3);
             this.tableLayoutPanel2.Controls.Add(this.label12, 2, 4);
             this.tableLayoutPanel2.Controls.Add(this.label13, 2, 5);
-            this.tableLayoutPanel2.Controls.Add(this.textBox1, 1, 0);
+            this.tableLayoutPanel2.Controls.Add(this.HPParent1TextBox, 1, 0);
             this.tableLayoutPanel2.Name = "tableLayoutPanel2";
+            // 
+            // SpeParent1TextBox
+            // 
+            resources.ApplyResources(this.SpeParent1TextBox, "SpeParent1TextBox");
+            this.SpeParent1TextBox.Name = "SpeParent1TextBox";
+            // 
+            // SpDParent1TextBox
+            // 
+            resources.ApplyResources(this.SpDParent1TextBox, "SpDParent1TextBox");
+            this.SpDParent1TextBox.Name = "SpDParent1TextBox";
+            // 
+            // SpAParent1TextBox
+            // 
+            resources.ApplyResources(this.SpAParent1TextBox, "SpAParent1TextBox");
+            this.SpAParent1TextBox.Name = "SpAParent1TextBox";
+            // 
+            // DefParent1TextBox
+            // 
+            resources.ApplyResources(this.DefParent1TextBox, "DefParent1TextBox");
+            this.DefParent1TextBox.Name = "DefParent1TextBox";
+            // 
+            // AtkParent1TextBox
+            // 
+            resources.ApplyResources(this.AtkParent1TextBox, "AtkParent1TextBox");
+            this.AtkParent1TextBox.Name = "AtkParent1TextBox";
             // 
             // label2
             // 
@@ -196,35 +227,11 @@
             resources.ApplyResources(this.label13, "label13");
             this.label13.Name = "label13";
             // 
-            // textBox1
+            // HPParent1TextBox
             // 
-            resources.ApplyResources(this.textBox1, "textBox1");
-            this.textBox1.Name = "textBox1";
-            // 
-            // textBox2
-            // 
-            resources.ApplyResources(this.textBox2, "textBox2");
-            this.textBox2.Name = "textBox2";
-            // 
-            // textBox3
-            // 
-            resources.ApplyResources(this.textBox3, "textBox3");
-            this.textBox3.Name = "textBox3";
-            // 
-            // textBox4
-            // 
-            resources.ApplyResources(this.textBox4, "textBox4");
-            this.textBox4.Name = "textBox4";
-            // 
-            // textBox5
-            // 
-            resources.ApplyResources(this.textBox5, "textBox5");
-            this.textBox5.Name = "textBox5";
-            // 
-            // textBox6
-            // 
-            resources.ApplyResources(this.textBox6, "textBox6");
-            this.textBox6.Name = "textBox6";
+            resources.ApplyResources(this.HPParent1TextBox, "HPParent1TextBox");
+            this.HPParent1TextBox.Name = "HPParent1TextBox";
+            this.HPParent1TextBox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBox1_KeyPress);
             // 
             // tableLayoutPanel3
             // 
@@ -242,11 +249,11 @@
             // tableLayoutPanel4
             // 
             resources.ApplyResources(this.tableLayoutPanel4, "tableLayoutPanel4");
-            this.tableLayoutPanel4.Controls.Add(this.textBox7, 1, 5);
-            this.tableLayoutPanel4.Controls.Add(this.textBox8, 1, 4);
-            this.tableLayoutPanel4.Controls.Add(this.textBox9, 1, 3);
-            this.tableLayoutPanel4.Controls.Add(this.textBox10, 1, 2);
-            this.tableLayoutPanel4.Controls.Add(this.textBox11, 1, 1);
+            this.tableLayoutPanel4.Controls.Add(this.SpeParent2TextBox, 1, 5);
+            this.tableLayoutPanel4.Controls.Add(this.SpDParent2TextBox, 1, 4);
+            this.tableLayoutPanel4.Controls.Add(this.SpAParent2TextBox, 1, 3);
+            this.tableLayoutPanel4.Controls.Add(this.DefParent2TextBox, 1, 2);
+            this.tableLayoutPanel4.Controls.Add(this.AtkParent2TextBox, 1, 1);
             this.tableLayoutPanel4.Controls.Add(this.label15, 0, 0);
             this.tableLayoutPanel4.Controls.Add(this.label16, 0, 1);
             this.tableLayoutPanel4.Controls.Add(this.label17, 0, 2);
@@ -259,33 +266,33 @@
             this.tableLayoutPanel4.Controls.Add(this.label24, 2, 3);
             this.tableLayoutPanel4.Controls.Add(this.label25, 2, 4);
             this.tableLayoutPanel4.Controls.Add(this.label26, 2, 5);
-            this.tableLayoutPanel4.Controls.Add(this.textBox12, 1, 0);
+            this.tableLayoutPanel4.Controls.Add(this.HPParent2TextBox, 1, 0);
             this.tableLayoutPanel4.Name = "tableLayoutPanel4";
             // 
-            // textBox7
+            // SpeParent2TextBox
             // 
-            resources.ApplyResources(this.textBox7, "textBox7");
-            this.textBox7.Name = "textBox7";
+            resources.ApplyResources(this.SpeParent2TextBox, "SpeParent2TextBox");
+            this.SpeParent2TextBox.Name = "SpeParent2TextBox";
             // 
-            // textBox8
+            // SpDParent2TextBox
             // 
-            resources.ApplyResources(this.textBox8, "textBox8");
-            this.textBox8.Name = "textBox8";
+            resources.ApplyResources(this.SpDParent2TextBox, "SpDParent2TextBox");
+            this.SpDParent2TextBox.Name = "SpDParent2TextBox";
             // 
-            // textBox9
+            // SpAParent2TextBox
             // 
-            resources.ApplyResources(this.textBox9, "textBox9");
-            this.textBox9.Name = "textBox9";
+            resources.ApplyResources(this.SpAParent2TextBox, "SpAParent2TextBox");
+            this.SpAParent2TextBox.Name = "SpAParent2TextBox";
             // 
-            // textBox10
+            // DefParent2TextBox
             // 
-            resources.ApplyResources(this.textBox10, "textBox10");
-            this.textBox10.Name = "textBox10";
+            resources.ApplyResources(this.DefParent2TextBox, "DefParent2TextBox");
+            this.DefParent2TextBox.Name = "DefParent2TextBox";
             // 
-            // textBox11
+            // AtkParent2TextBox
             // 
-            resources.ApplyResources(this.textBox11, "textBox11");
-            this.textBox11.Name = "textBox11";
+            resources.ApplyResources(this.AtkParent2TextBox, "AtkParent2TextBox");
+            this.AtkParent2TextBox.Name = "AtkParent2TextBox";
             // 
             // label15
             // 
@@ -347,10 +354,10 @@
             resources.ApplyResources(this.label26, "label26");
             this.label26.Name = "label26";
             // 
-            // textBox12
+            // HPParent2TextBox
             // 
-            resources.ApplyResources(this.textBox12, "textBox12");
-            this.textBox12.Name = "textBox12";
+            resources.ApplyResources(this.HPParent2TextBox, "HPParent2TextBox");
+            this.HPParent2TextBox.Name = "HPParent2TextBox";
             // 
             // tableLayoutPanel5
             // 
@@ -368,50 +375,66 @@
             // tableLayoutPanel6
             // 
             resources.ApplyResources(this.tableLayoutPanel6, "tableLayoutPanel6");
-            this.tableLayoutPanel6.Controls.Add(this.textBox13, 1, 5);
-            this.tableLayoutPanel6.Controls.Add(this.textBox14, 1, 4);
-            this.tableLayoutPanel6.Controls.Add(this.textBox15, 1, 3);
-            this.tableLayoutPanel6.Controls.Add(this.textBox16, 1, 2);
-            this.tableLayoutPanel6.Controls.Add(this.textBox17, 1, 1);
+            this.tableLayoutPanel6.Controls.Add(this.greaterSpeButton, 1, 5);
+            this.tableLayoutPanel6.Controls.Add(this.greaterSpDButton, 1, 4);
+            this.tableLayoutPanel6.Controls.Add(this.greaterSpAButton, 1, 3);
+            this.tableLayoutPanel6.Controls.Add(this.greaterDefButton, 1, 2);
+            this.tableLayoutPanel6.Controls.Add(this.greaterAtkButton, 1, 1);
             this.tableLayoutPanel6.Controls.Add(this.label28, 0, 0);
             this.tableLayoutPanel6.Controls.Add(this.label29, 0, 1);
             this.tableLayoutPanel6.Controls.Add(this.label30, 0, 2);
             this.tableLayoutPanel6.Controls.Add(this.label31, 0, 3);
             this.tableLayoutPanel6.Controls.Add(this.label32, 0, 4);
             this.tableLayoutPanel6.Controls.Add(this.label33, 0, 5);
-            this.tableLayoutPanel6.Controls.Add(this.label34, 2, 0);
-            this.tableLayoutPanel6.Controls.Add(this.label35, 2, 1);
-            this.tableLayoutPanel6.Controls.Add(this.label36, 2, 2);
-            this.tableLayoutPanel6.Controls.Add(this.label37, 2, 3);
-            this.tableLayoutPanel6.Controls.Add(this.label38, 2, 4);
-            this.tableLayoutPanel6.Controls.Add(this.label39, 2, 5);
-            this.tableLayoutPanel6.Controls.Add(this.textBox18, 1, 0);
+            this.tableLayoutPanel6.Controls.Add(this.label34, 3, 0);
+            this.tableLayoutPanel6.Controls.Add(this.label35, 3, 1);
+            this.tableLayoutPanel6.Controls.Add(this.label36, 3, 2);
+            this.tableLayoutPanel6.Controls.Add(this.label37, 3, 3);
+            this.tableLayoutPanel6.Controls.Add(this.label38, 3, 4);
+            this.tableLayoutPanel6.Controls.Add(this.label39, 3, 5);
+            this.tableLayoutPanel6.Controls.Add(this.HPDesiredTextBox, 2, 0);
+            this.tableLayoutPanel6.Controls.Add(this.AtkDesiredTextBox, 2, 1);
+            this.tableLayoutPanel6.Controls.Add(this.DefDesiredTextBox, 2, 2);
+            this.tableLayoutPanel6.Controls.Add(this.SpADesiredTextBox, 2, 3);
+            this.tableLayoutPanel6.Controls.Add(this.SpDDesiredTextBox, 2, 4);
+            this.tableLayoutPanel6.Controls.Add(this.SpeDesiredTextBox, 2, 5);
+            this.tableLayoutPanel6.Controls.Add(this.greaterHPButton, 1, 0);
             this.tableLayoutPanel6.Name = "tableLayoutPanel6";
             // 
-            // textBox13
+            // greaterSpeButton
             // 
-            resources.ApplyResources(this.textBox13, "textBox13");
-            this.textBox13.Name = "textBox13";
+            resources.ApplyResources(this.greaterSpeButton, "greaterSpeButton");
+            this.greaterSpeButton.Name = "greaterSpeButton";
+            this.greaterSpeButton.UseVisualStyleBackColor = true;
+            this.greaterSpeButton.Click += new System.EventHandler(this.greaterSpeButton_Click);
             // 
-            // textBox14
+            // greaterSpDButton
             // 
-            resources.ApplyResources(this.textBox14, "textBox14");
-            this.textBox14.Name = "textBox14";
+            resources.ApplyResources(this.greaterSpDButton, "greaterSpDButton");
+            this.greaterSpDButton.Name = "greaterSpDButton";
+            this.greaterSpDButton.UseVisualStyleBackColor = true;
+            this.greaterSpDButton.Click += new System.EventHandler(this.greaterSpDButton_Click);
             // 
-            // textBox15
+            // greaterSpAButton
             // 
-            resources.ApplyResources(this.textBox15, "textBox15");
-            this.textBox15.Name = "textBox15";
+            resources.ApplyResources(this.greaterSpAButton, "greaterSpAButton");
+            this.greaterSpAButton.Name = "greaterSpAButton";
+            this.greaterSpAButton.UseVisualStyleBackColor = true;
+            this.greaterSpAButton.Click += new System.EventHandler(this.greaterSpAButton_Click);
             // 
-            // textBox16
+            // greaterDefButton
             // 
-            resources.ApplyResources(this.textBox16, "textBox16");
-            this.textBox16.Name = "textBox16";
+            resources.ApplyResources(this.greaterDefButton, "greaterDefButton");
+            this.greaterDefButton.Name = "greaterDefButton";
+            this.greaterDefButton.UseVisualStyleBackColor = true;
+            this.greaterDefButton.Click += new System.EventHandler(this.greaterDefButton_Click);
             // 
-            // textBox17
+            // greaterAtkButton
             // 
-            resources.ApplyResources(this.textBox17, "textBox17");
-            this.textBox17.Name = "textBox17";
+            resources.ApplyResources(this.greaterAtkButton, "greaterAtkButton");
+            this.greaterAtkButton.Name = "greaterAtkButton";
+            this.greaterAtkButton.UseVisualStyleBackColor = true;
+            this.greaterAtkButton.Click += new System.EventHandler(this.greaterAtkButton_Click);
             // 
             // label28
             // 
@@ -473,10 +496,42 @@
             resources.ApplyResources(this.label39, "label39");
             this.label39.Name = "label39";
             // 
-            // textBox18
+            // HPDesiredTextBox
             // 
-            resources.ApplyResources(this.textBox18, "textBox18");
-            this.textBox18.Name = "textBox18";
+            resources.ApplyResources(this.HPDesiredTextBox, "HPDesiredTextBox");
+            this.HPDesiredTextBox.Name = "HPDesiredTextBox";
+            // 
+            // AtkDesiredTextBox
+            // 
+            resources.ApplyResources(this.AtkDesiredTextBox, "AtkDesiredTextBox");
+            this.AtkDesiredTextBox.Name = "AtkDesiredTextBox";
+            // 
+            // DefDesiredTextBox
+            // 
+            resources.ApplyResources(this.DefDesiredTextBox, "DefDesiredTextBox");
+            this.DefDesiredTextBox.Name = "DefDesiredTextBox";
+            // 
+            // SpADesiredTextBox
+            // 
+            resources.ApplyResources(this.SpADesiredTextBox, "SpADesiredTextBox");
+            this.SpADesiredTextBox.Name = "SpADesiredTextBox";
+            // 
+            // SpDDesiredTextBox
+            // 
+            resources.ApplyResources(this.SpDDesiredTextBox, "SpDDesiredTextBox");
+            this.SpDDesiredTextBox.Name = "SpDDesiredTextBox";
+            // 
+            // SpeDesiredTextBox
+            // 
+            resources.ApplyResources(this.SpeDesiredTextBox, "SpeDesiredTextBox");
+            this.SpeDesiredTextBox.Name = "SpeDesiredTextBox";
+            // 
+            // greaterHPButton
+            // 
+            resources.ApplyResources(this.greaterHPButton, "greaterHPButton");
+            this.greaterHPButton.Name = "greaterHPButton";
+            this.greaterHPButton.UseVisualStyleBackColor = true;
+            this.greaterHPButton.Click += new System.EventHandler(this.greaterHPButton_Click);
             // 
             // Form1
             // 
@@ -519,20 +574,20 @@
         private System.Windows.Forms.Label label11;
         private System.Windows.Forms.Label label12;
         private System.Windows.Forms.Label label13;
-        private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.TextBox textBox6;
-        private System.Windows.Forms.TextBox textBox5;
-        private System.Windows.Forms.TextBox textBox4;
-        private System.Windows.Forms.TextBox textBox3;
-        private System.Windows.Forms.TextBox textBox2;
+        private System.Windows.Forms.TextBox HPParent1TextBox;
+        private System.Windows.Forms.TextBox SpeParent1TextBox;
+        private System.Windows.Forms.TextBox SpDParent1TextBox;
+        private System.Windows.Forms.TextBox SpAParent1TextBox;
+        private System.Windows.Forms.TextBox DefParent1TextBox;
+        private System.Windows.Forms.TextBox AtkParent1TextBox;
         private System.Windows.Forms.TableLayoutPanel tableLayoutPanel3;
         private System.Windows.Forms.Label label14;
         private System.Windows.Forms.TableLayoutPanel tableLayoutPanel4;
-        private System.Windows.Forms.TextBox textBox7;
-        private System.Windows.Forms.TextBox textBox8;
-        private System.Windows.Forms.TextBox textBox9;
-        private System.Windows.Forms.TextBox textBox10;
-        private System.Windows.Forms.TextBox textBox11;
+        private System.Windows.Forms.TextBox SpeParent2TextBox;
+        private System.Windows.Forms.TextBox SpDParent2TextBox;
+        private System.Windows.Forms.TextBox SpAParent2TextBox;
+        private System.Windows.Forms.TextBox DefParent2TextBox;
+        private System.Windows.Forms.TextBox AtkParent2TextBox;
         private System.Windows.Forms.Label label15;
         private System.Windows.Forms.Label label16;
         private System.Windows.Forms.Label label17;
@@ -545,15 +600,15 @@
         private System.Windows.Forms.Label label24;
         private System.Windows.Forms.Label label25;
         private System.Windows.Forms.Label label26;
-        private System.Windows.Forms.TextBox textBox12;
+        private System.Windows.Forms.TextBox HPParent2TextBox;
         private System.Windows.Forms.TableLayoutPanel tableLayoutPanel5;
         private System.Windows.Forms.Label label27;
         private System.Windows.Forms.TableLayoutPanel tableLayoutPanel6;
-        private System.Windows.Forms.TextBox textBox13;
-        private System.Windows.Forms.TextBox textBox14;
-        private System.Windows.Forms.TextBox textBox15;
-        private System.Windows.Forms.TextBox textBox16;
-        private System.Windows.Forms.TextBox textBox17;
+        private System.Windows.Forms.TextBox SpeDesiredTextBox;
+        private System.Windows.Forms.TextBox SpDDesiredTextBox;
+        private System.Windows.Forms.TextBox SpADesiredTextBox;
+        private System.Windows.Forms.TextBox DefDesiredTextBox;
+        private System.Windows.Forms.TextBox AtkDesiredTextBox;
         private System.Windows.Forms.Label label28;
         private System.Windows.Forms.Label label29;
         private System.Windows.Forms.Label label30;
@@ -566,7 +621,13 @@
         private System.Windows.Forms.Label label37;
         private System.Windows.Forms.Label label38;
         private System.Windows.Forms.Label label39;
-        private System.Windows.Forms.TextBox textBox18;
+        private System.Windows.Forms.TextBox HPDesiredTextBox;
+        private System.Windows.Forms.Button greaterSpeButton;
+        private System.Windows.Forms.Button greaterSpDButton;
+        private System.Windows.Forms.Button greaterSpAButton;
+        private System.Windows.Forms.Button greaterDefButton;
+        private System.Windows.Forms.Button greaterAtkButton;
+        private System.Windows.Forms.Button greaterHPButton;
     }
 }
 
