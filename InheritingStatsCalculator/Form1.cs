@@ -112,7 +112,7 @@ namespace InheritingStatsCalculator
             }
         }
 
-        private void textBox1_KeyPress(object sender, KeyPressEventArgs e)
+        private void HPParent1TextBox_KeyPress(object sender, KeyPressEventArgs e)
         {
             HPParent1TextBox.Select(1, HPParent1TextBox.Text.Length);
             if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar))
@@ -289,6 +289,329 @@ namespace InheritingStatsCalculator
             } catch
             {
                     HPParent1TextBox.Text = "31";
+            }
+        }
+
+        private void AtkParent1TextBox_Leave(object sender, EventArgs e)
+        {
+            if (AtkParent1TextBox.Text.Length == 0)
+            {
+                AtkParent1TextBox.Text = "0";
+            }
+            try
+            {
+                if (Int32.Parse(AtkParent1TextBox.Text) > 31)
+                {
+                    AtkParent1TextBox.Text = "31";
+                }
+            }
+            catch
+            {
+                AtkParent1TextBox.Text = "31";
+            }
+        }
+
+        private void DefParent1TextBox_Leave(object sender, EventArgs e)
+        {
+            if (DefParent1TextBox.Text.Length == 0)
+            {
+                DefParent1TextBox.Text = "0";
+            }
+            try
+            {
+                if (Int32.Parse(DefParent1TextBox.Text) > 31)
+                {
+                    DefParent1TextBox.Text = "31";
+                }
+            }
+            catch
+            {
+                DefParent1TextBox.Text = "31";
+            }
+        }
+
+        private void SpAParent1TextBox_Leave(object sender, EventArgs e)
+        {
+            if (SpAParent1TextBox.Text.Length == 0)
+            {
+                SpAParent1TextBox.Text = "0";
+            }
+            try
+            {
+                if (Int32.Parse(SpAParent1TextBox.Text) > 31)
+                {
+                    SpAParent1TextBox.Text = "31";
+                }
+            }
+            catch
+            {
+                SpAParent1TextBox.Text = "31";
+            }
+        }
+
+        private void SpDParent1TextBox_Leave(object sender, EventArgs e)
+        {
+            if (SpDParent1TextBox.Text.Length == 0)
+            {
+                SpDParent1TextBox.Text = "0";
+            }
+            try
+            {
+                if (Int32.Parse(SpDParent1TextBox.Text) > 31)
+                {
+                    SpDParent1TextBox.Text = "31";
+                }
+            }
+            catch
+            {
+                SpDParent1TextBox.Text = "31";
+            }
+        }
+
+        private void SpeParent1TextBox_Leave(object sender, EventArgs e)
+        {
+            if (SpeParent1TextBox.Text.Length == 0)
+            {
+                SpeParent1TextBox.Text = "0";
+            }
+            try
+            {
+                if (Int32.Parse(SpeParent1TextBox.Text) > 31)
+                {
+                    SpeParent1TextBox.Text = "31";
+                }
+            }
+            catch
+            {
+                SpeParent1TextBox.Text = "31";
+            }
+        }
+
+        private void HPParent2TextBox_Leave(object sender, EventArgs e)
+        {
+            if (HPParent2TextBox.Text.Length == 0)
+            {
+                HPParent2TextBox.Text = "0";
+            }
+            try
+            {
+                if (Int32.Parse(HPParent2TextBox.Text) > 31)
+                {
+                    HPParent2TextBox.Text = "31";
+                }
+            }
+            catch
+            {
+                HPParent2TextBox.Text = "31";
+            }
+        }
+
+        private void AtkParent2TextBox_Layout(object sender, LayoutEventArgs e)
+        {
+            if (AtkParent2TextBox.Text.Length == 0)
+            {
+                AtkParent2TextBox.Text = "0";
+            }
+            try
+            {
+                if (Int32.Parse(AtkParent2TextBox.Text) > 31)
+                {
+                    AtkParent2TextBox.Text = "31";
+                }
+            }
+            catch
+            {
+                AtkParent2TextBox.Text = "31";
+            }
+        }
+
+        private void DefParent2TextBox_Leave(object sender, EventArgs e)
+        {
+            if (DefParent2TextBox.Text.Length == 0)
+            {
+                DefParent2TextBox.Text = "0";
+            }
+            try
+            {
+                if (Int32.Parse(DefParent2TextBox.Text) > 31)
+                {
+                    DefParent2TextBox.Text = "31";
+                }
+            }
+            catch
+            {
+                AtkParent2TextBox.Text = "31";
+            }
+        }
+
+        private void SpAParent2TextBox_Leave(object sender, EventArgs e)
+        {
+            if (SpAParent2TextBox.Text.Length == 0)
+            {
+                SpAParent2TextBox.Text = "0";
+            }
+            try
+            {
+                if (Int32.Parse(SpAParent2TextBox.Text) > 31)
+                {
+                    SpAParent2TextBox.Text = "31";
+                }
+            }
+            catch
+            {
+                SpAParent2TextBox.Text = "31";
+            }
+        }
+
+        private void SpDParent2TextBox_Leave(object sender, EventArgs e)
+        {
+            if (SpDParent2TextBox.Text.Length == 0)
+            {
+                SpDParent2TextBox.Text = "0";
+            }
+            try
+            {
+                if (Int32.Parse(SpDParent2TextBox.Text) > 31)
+                {
+                    SpDParent2TextBox.Text = "31";
+                }
+            }
+            catch
+            {
+                SpDParent2TextBox.Text = "31";
+            }
+        }
+
+        private void SpeParent2TextBox_Leave(object sender, EventArgs e)
+        {
+            if (SpeParent2TextBox.Text.Length == 0)
+            {
+                SpeParent2TextBox.Text = "0";
+            }
+            try
+            {
+                if (Int32.Parse(SpeParent2TextBox.Text) > 31)
+                {
+                    SpeParent2TextBox.Text = "31";
+                }
+            }
+            catch
+            {
+                SpeParent2TextBox.Text = "31";
+            }
+        }
+
+        private void HPDesiredTextBox_Leave(object sender, EventArgs e)
+        {
+            if (HPDesiredTextBox.Text.Length == 0)
+            {
+                HPDesiredTextBox.Text = "0";
+            }
+            try
+            {
+                if (Int32.Parse(HPDesiredTextBox.Text) > 31)
+                {
+                    HPDesiredTextBox.Text = "31";
+                }
+            }
+            catch
+            {
+                HPDesiredTextBox.Text = "31";
+            }
+        }
+
+        private void AtkDesiredTextBox_Leave(object sender, EventArgs e)
+        {
+            if (AtkDesiredTextBox.Text.Length == 0)
+            {
+                AtkDesiredTextBox.Text = "0";
+            }
+            try
+            {
+                if (Int32.Parse(AtkDesiredTextBox.Text) > 31)
+                {
+                    AtkDesiredTextBox.Text = "31";
+                }
+            }
+            catch
+            {
+                AtkDesiredTextBox.Text = "31";
+            }
+        }
+
+        private void DefDesiredTextBox_Leave(object sender, EventArgs e)
+        {
+            if (DefDesiredTextBox.Text.Length == 0)
+            {
+                DefDesiredTextBox.Text = "0";
+            }
+            try
+            {
+                if (Int32.Parse(DefDesiredTextBox.Text) > 31)
+                {
+                    DefDesiredTextBox.Text = "31";
+                }
+            }
+            catch
+            {
+                DefDesiredTextBox.Text = "31";
+            }
+        }
+
+        private void SpADesiredTextBox_Leave(object sender, EventArgs e)
+        {
+            if (SpADesiredTextBox.Text.Length == 0)
+            {
+                SpADesiredTextBox.Text = "0";
+            }
+            try
+            {
+                if (Int32.Parse(SpADesiredTextBox.Text) > 31)
+                {
+                    SpADesiredTextBox.Text = "31";
+                }
+            }
+            catch
+            {
+                SpADesiredTextBox.Text = "31";
+            }
+        }
+
+        private void SpDDesiredTextBox_Leave(object sender, EventArgs e)
+        {
+            if (SpDDesiredTextBox.Text.Length == 0)
+            {
+                SpDDesiredTextBox.Text = "0";
+            }
+            try
+            {
+                if (Int32.Parse(SpDDesiredTextBox.Text) > 31)
+                {
+                    SpDDesiredTextBox.Text = "31";
+                }
+            }
+            catch
+            {
+                SpDDesiredTextBox.Text = "31";
+            }
+        }
+
+        private void SpeDesiredTextBox_Leave(object sender, EventArgs e)
+        {
+            if (SpeDesiredTextBox.Text.Length == 0)
+            {
+                SpeDesiredTextBox.Text = "0";
+            }
+            try
+            {
+                if (Int32.Parse(SpeDesiredTextBox.Text) > 31)
+                {
+                    SpeDesiredTextBox.Text = "31";
+                }
+            }
+            catch
+            {
+                SpeDesiredTextBox.Text = "31";
             }
         }
     }

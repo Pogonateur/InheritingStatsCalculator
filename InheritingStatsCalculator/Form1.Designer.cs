@@ -148,6 +148,7 @@
             this.SpeParent1TextBox.Name = "SpeParent1TextBox";
             this.SpeParent1TextBox.ShortcutsEnabled = false;
             this.SpeParent1TextBox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.SpeParent1TextBox_KeyPress);
+            this.SpeParent1TextBox.Leave += new System.EventHandler(this.SpeParent1TextBox_Leave);
             // 
             // SpDParent1TextBox
             // 
@@ -155,6 +156,7 @@
             this.SpDParent1TextBox.Name = "SpDParent1TextBox";
             this.SpDParent1TextBox.ShortcutsEnabled = false;
             this.SpDParent1TextBox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.SpDParent1TextBox_KeyPress);
+            this.SpDParent1TextBox.Leave += new System.EventHandler(this.SpDParent1TextBox_Leave);
             // 
             // SpAParent1TextBox
             // 
@@ -162,6 +164,7 @@
             this.SpAParent1TextBox.Name = "SpAParent1TextBox";
             this.SpAParent1TextBox.ShortcutsEnabled = false;
             this.SpAParent1TextBox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.SpAParent1TextBox_KeyPress);
+            this.SpAParent1TextBox.Leave += new System.EventHandler(this.SpAParent1TextBox_Leave);
             // 
             // DefParent1TextBox
             // 
@@ -169,6 +172,7 @@
             this.DefParent1TextBox.Name = "DefParent1TextBox";
             this.DefParent1TextBox.ShortcutsEnabled = false;
             this.DefParent1TextBox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.DefParent1TextBox_KeyPress);
+            this.DefParent1TextBox.Leave += new System.EventHandler(this.DefParent1TextBox_Leave);
             // 
             // AtkParent1TextBox
             // 
@@ -176,6 +180,7 @@
             this.AtkParent1TextBox.Name = "AtkParent1TextBox";
             this.AtkParent1TextBox.ShortcutsEnabled = false;
             this.AtkParent1TextBox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.AtkParent1TextBox_KeyPress);
+            this.AtkParent1TextBox.Leave += new System.EventHandler(this.AtkParent1TextBox_Leave);
             // 
             // label2
             // 
@@ -242,7 +247,7 @@
             resources.ApplyResources(this.HPParent1TextBox, "HPParent1TextBox");
             this.HPParent1TextBox.Name = "HPParent1TextBox";
             this.HPParent1TextBox.ShortcutsEnabled = false;
-            this.HPParent1TextBox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBox1_KeyPress);
+            this.HPParent1TextBox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.HPParent1TextBox_KeyPress);
             this.HPParent1TextBox.Leave += new System.EventHandler(this.HPParent1TextBox_Leave);
             // 
             // tableLayoutPanel3
@@ -287,6 +292,7 @@
             this.SpeParent2TextBox.Name = "SpeParent2TextBox";
             this.SpeParent2TextBox.ShortcutsEnabled = false;
             this.SpeParent2TextBox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.SpeParent2TextBox_KeyPress);
+            this.SpeParent2TextBox.Leave += new System.EventHandler(this.SpeParent2TextBox_Leave);
             // 
             // SpDParent2TextBox
             // 
@@ -294,6 +300,7 @@
             this.SpDParent2TextBox.Name = "SpDParent2TextBox";
             this.SpDParent2TextBox.ShortcutsEnabled = false;
             this.SpDParent2TextBox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.SpDParent2TextBox_KeyPress);
+            this.SpDParent2TextBox.Leave += new System.EventHandler(this.SpDParent2TextBox_Leave);
             // 
             // SpAParent2TextBox
             // 
@@ -301,6 +308,7 @@
             this.SpAParent2TextBox.Name = "SpAParent2TextBox";
             this.SpAParent2TextBox.ShortcutsEnabled = false;
             this.SpAParent2TextBox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.SpAParent2TextBox_KeyPress);
+            this.SpAParent2TextBox.Leave += new System.EventHandler(this.SpAParent2TextBox_Leave);
             // 
             // DefParent2TextBox
             // 
@@ -308,6 +316,7 @@
             this.DefParent2TextBox.Name = "DefParent2TextBox";
             this.DefParent2TextBox.ShortcutsEnabled = false;
             this.DefParent2TextBox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.DefParent2TextBox_KeyPress);
+            this.DefParent2TextBox.Leave += new System.EventHandler(this.DefParent2TextBox_Leave);
             // 
             // AtkParent2TextBox
             // 
@@ -315,6 +324,7 @@
             this.AtkParent2TextBox.Name = "AtkParent2TextBox";
             this.AtkParent2TextBox.ShortcutsEnabled = false;
             this.AtkParent2TextBox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.AtkParent2TextBox_KeyPress);
+            this.AtkParent2TextBox.Layout += new System.Windows.Forms.LayoutEventHandler(this.AtkParent2TextBox_Layout);
             // 
             // label15
             // 
@@ -382,6 +392,7 @@
             this.HPParent2TextBox.Name = "HPParent2TextBox";
             this.HPParent2TextBox.ShortcutsEnabled = false;
             this.HPParent2TextBox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.HPParent2TextBox_KeyPress);
+            this.HPParent2TextBox.Leave += new System.EventHandler(this.HPParent2TextBox_Leave);
             // 
             // tableLayoutPanel5
             // 
@@ -531,6 +542,7 @@
             this.HPDesiredTextBox.Name = "HPDesiredTextBox";
             this.HPDesiredTextBox.ShortcutsEnabled = false;
             this.HPDesiredTextBox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.HPDesiredTextBox_KeyPress);
+            this.HPDesiredTextBox.Leave += new System.EventHandler(this.HPDesiredTextBox_Leave);
             // 
             // AtkDesiredTextBox
             // 
@@ -538,6 +550,7 @@
             this.AtkDesiredTextBox.Name = "AtkDesiredTextBox";
             this.AtkDesiredTextBox.ShortcutsEnabled = false;
             this.AtkDesiredTextBox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.AtkDesiredTextBox_KeyPress);
+            this.AtkDesiredTextBox.Leave += new System.EventHandler(this.AtkDesiredTextBox_Leave);
             // 
             // DefDesiredTextBox
             // 
@@ -545,6 +558,7 @@
             this.DefDesiredTextBox.Name = "DefDesiredTextBox";
             this.DefDesiredTextBox.ShortcutsEnabled = false;
             this.DefDesiredTextBox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.DefDesiredTextBox_KeyPress);
+            this.DefDesiredTextBox.Leave += new System.EventHandler(this.DefDesiredTextBox_Leave);
             // 
             // SpADesiredTextBox
             // 
@@ -552,6 +566,7 @@
             this.SpADesiredTextBox.Name = "SpADesiredTextBox";
             this.SpADesiredTextBox.ShortcutsEnabled = false;
             this.SpADesiredTextBox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.SpADesiredTextBox_KeyPress);
+            this.SpADesiredTextBox.Leave += new System.EventHandler(this.SpADesiredTextBox_Leave);
             // 
             // SpDDesiredTextBox
             // 
@@ -559,6 +574,7 @@
             this.SpDDesiredTextBox.Name = "SpDDesiredTextBox";
             this.SpDDesiredTextBox.ShortcutsEnabled = false;
             this.SpDDesiredTextBox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.SpDDesiredTextBox_KeyPress);
+            this.SpDDesiredTextBox.Leave += new System.EventHandler(this.SpDDesiredTextBox_Leave);
             // 
             // SpeDesiredTextBox
             // 
@@ -566,6 +582,7 @@
             this.SpeDesiredTextBox.Name = "SpeDesiredTextBox";
             this.SpeDesiredTextBox.ShortcutsEnabled = false;
             this.SpeDesiredTextBox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.SpeDesiredTextBox_KeyPress);
+            this.SpeDesiredTextBox.Leave += new System.EventHandler(this.SpeDesiredTextBox_Leave);
             // 
             // greaterHPButton
             // 
