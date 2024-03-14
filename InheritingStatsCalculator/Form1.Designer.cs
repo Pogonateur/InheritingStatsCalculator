@@ -324,7 +324,7 @@
             this.AtkParent2TextBox.Name = "AtkParent2TextBox";
             this.AtkParent2TextBox.ShortcutsEnabled = false;
             this.AtkParent2TextBox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.AtkParent2TextBox_KeyPress);
-            this.AtkParent2TextBox.Layout += new System.Windows.Forms.LayoutEventHandler(this.AtkParent2TextBox_Layout);
+            this.AtkParent2TextBox.Leave += new System.EventHandler(this.AtkParent2TextBox_Leave);
             // 
             // label15
             // 

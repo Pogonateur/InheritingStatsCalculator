@@ -406,7 +406,7 @@ namespace InheritingStatsCalculator
             }
         }
 
-        private void AtkParent2TextBox_Layout(object sender, LayoutEventArgs e)
+        private void AtkParent2TextBox_Leave(object sender, EventArgs e)
         {
             if (AtkParent2TextBox.Text.Length == 0)
             {
